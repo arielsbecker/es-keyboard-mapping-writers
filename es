@@ -1,7 +1,4 @@
-// Definición de teclado para escritores de habla española.
-// Las teclas 2 y 3 tienen comillas angulares «» en el nivel 2.
-// La tecla 6 tiene comilla recta " en el nivel 3.
-// La tecla de la C con cedilla contiene ¶ en el nivel 1 y § en el nivel 2.
+// Modified for a real Spanish keyboard by Jon Tombs.
 
 default  partial alphanumeric_keys
 xkb_symbols "basic" {
@@ -14,6 +11,7 @@ xkb_symbols "basic" {
     key <AE02> {[          2, guillemotleft, at, twosuperior			]};
     key <AE03> {[          3, guillemotright, numbersign, threesuperior	]};
     key <AE04>	{ [         4,     dollar,   asciitilde,       dollar ]	};
+    key <AE05> {[          5, percent, emdash, fiveeighths		]};
     key <AE06> {[          6, ampersand, quotedbl, threequarters		]};
     key <AE11>	{ [apostrophe,   question,    backslash, questiondown ]	};
     key <AE12>	{ [exclamdown, questiondown, dead_tilde,   asciitilde ]	};
@@ -70,6 +68,7 @@ xkb_symbols "nodeadkeys" {
     key <AB10>	{ [     minus, underscore, dead_belowdot,    abovedot ]	};
 };
 
+// Spanish mapping (note R-H exchange)
 partial alphanumeric_keys
 xkb_symbols "dvorak" {
 
@@ -80,7 +79,7 @@ xkb_symbols "dvorak" {
     key <AE02> {[          2, guillemotleft, at, twosuperior			]};
     key <AE03> {[          3, guillemotright, numbersign, threesuperior	]};
     key <AE04> {[          4, dollar, asciitilde, onequarter		]};
-    key <AE05> {[          5, percent, brokenbar, fiveeighths		]};
+    key <AE05> {[          5, percent, emdash, fiveeighths		]};
     key <AE06> {[          6, ampersand, notsign, threequarters		]};
     key <AE07> {[          7, slash, onehalf, seveneighths		]};
     key <AE08> {[          8, parenleft, oneeighth, threeeighths	]};
@@ -151,6 +150,7 @@ xkb_symbols "ast" {
     key <AC09>  { [	    l,      L,		0x1001E37,  0x1001E36 ] };
 };
 
+// Copied from macintosh_vndr/es
 partial alphanumeric_keys
 xkb_symbols "mac" {
     include "es"
@@ -160,6 +160,8 @@ xkb_symbols "mac" {
 partial alphanumeric_keys
 xkb_symbols "olpc" {
 
+    // http://wiki.laptop.org/go/OLPC_Spanish_Keyboard
+
     include "us(basic)"
     name[Group1]="Spanish";
 
@@ -167,7 +169,7 @@ xkb_symbols "olpc" {
     key <AE01> { [            1,         exclam,             bar ] };
     key <AE02> {[          2, guillemotleft, at, twosuperior			]};
     key <AE03> {[          3, guillemotright, numbersign, threesuperior	]};
-    key <AE05> { [            5,        percent,     asciicircum,   dead_circumflex ] };
+    key <AE05> {[          5, percent, emdash, fiveeighths		]};
     key <AE06> {[          6, ampersand, quotedbl, threequarters		]};
     key <AE07> { [            7,          slash,       backslash ] };
     key <AE08> { [            8,      parenleft                         ] };
@@ -196,6 +198,9 @@ xkb_symbols "olpc" {
 partial alphanumeric_keys
 xkb_symbols "olpcm" {
 
+    // Mechanical (non-membrane) OLPC Spanish keyboard layout.
+    // See: http://wiki.laptop.org/go/OLPC_Spanish_Non-membrane_Keyboard
+
     include "us(basic)"
     name[Group1]="Spanish";
 
@@ -204,9 +209,9 @@ xkb_symbols "olpcm" {
     key <AE02> {[          2, guillemotleft, at, twosuperior			]};
     key <AE03> {[          3, guillemotright, numbersign, threesuperior	]};
     key <AE04> { [            4,     dollar,     asciitilde,     dead_tilde ] };
-    key <AE05> { [            5,        percent,     asciicircum,   dead_circumflex ] };
+    key <AE05> {[          5, percent, emdash, fiveeighths		]};
     key <AE06> {[          6, ampersand, quotedbl, threequarters		]};
-    key <AE07> { [            7,          slash,       backslash ] };
+    key <AE07> { [            7,          slash,       backslash ] };   // no '\' label on olpcm, leave for compatibility
     key <AE08> { [            8,      parenleft,    masculine                ] };
     key <AE09> { [            9,     parenright,    ordfeminine                 ] };
     key <AE10> { [            0,          equal                  ] };
@@ -217,6 +222,7 @@ xkb_symbols "olpcm" {
     key <AD12> { [  plus,      asterisk                  ] };
 
     key <AC10> { [       ntilde,        Ntilde                  ] };
+    // no AC11 or AC12 on olpcm
 
     key <AB08> { [        comma,      semicolon                  ] };
     key <AB09> { [       period,          colon                  ] };
@@ -242,14 +248,19 @@ xkb_symbols "deadtilde" {
 partial alphanumeric_keys
 xkb_symbols "olpc2" {
 
+    // Modified variant of US International layout, specifically for Peru
+    // Contact: Sayamindu Dasgupta <sayamindu@laptop.org>
+
     include "us(olpc)"
     name[Group1]="Spanish (OLPC2)";
 
-    key <AE03> { [  3, numbersign,   dead_grave,  dead_grave] };
+    key <AE03> { [  3, numbersign,   dead_grave,  dead_grave] }; // combining grave
     key <I236>  { [ XF86Start ] };
 
     include "level3(ralt_switch)"
 };
+
+// EXTRAS:
 
 partial alphanumeric_keys
 	xkb_symbols "sun_type6" {
