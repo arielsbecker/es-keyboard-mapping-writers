@@ -1,4 +1,5 @@
-// Modified for a real Spanish keyboard by Jon Tombs.
+// Spanish keyboard - modified for writers
+// Based on a real Spanish keyboard by Jon Tombs.
 
 default  partial alphanumeric_keys
 xkb_symbols "basic" {
