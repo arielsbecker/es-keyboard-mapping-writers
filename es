@@ -9,11 +9,11 @@ xkb_symbols "basic" {
     name[Group1]="Spanish";
 
     key <AE01>	{ [         1,     exclam,          bar,   exclamdown ]	};
-    key <AE02> {[          2, guillemotleft, at, twosuperior			]};
-    key <AE03> {[          3, guillemotright, numbersign, threesuperior	]};
+    key <AE02> { [          2, guillemotleft, at, twosuperior			] };
+    key <AE03> { [          3, guillemotright, numbersign, threesuperior	] };
     key <AE04>	{ [         4,     dollar,   asciitilde,       dollar ]	};
-    key <AE05> {[          5, percent, emdash, fiveeighths		]};
-    key <AE06> {[          6, ampersand, quotedbl, threequarters		]};
+    key <AE05> { [          5, percent, emdash, fiveeighths		]};
+    key <AE06> { [          6, ampersand, quotedbl, threequarters		] };
     key <AE11>	{ [apostrophe,   question,    backslash, questiondown ]	};
     key <AE12>	{ [exclamdown, questiondown, dead_tilde,   asciitilde ]	};
 
@@ -24,7 +24,8 @@ xkb_symbols "basic" {
     key <AC11>	{ [dead_acute, dead_diaeresis, braceleft,   braceleft ]	};
     key <TLDE>	{ [ masculine, ordfeminine,    backslash,   backslash ]	};
 
-    key <BKSL> {[   paragraph, section, braceright, dead_cedilla	]};
+    key <BKSL> { [   paragraph, section, braceright, dead_cedilla	]};
+    key <SPCE> { [   space,     nobreakspace,   paragraph,     rightarrow ] };
 
     include "level3(ralt_switch)"
 };

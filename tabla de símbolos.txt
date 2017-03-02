@@ -1,0 +1,1503 @@
+
+
+space                         0x0020      SPACE
+exclam                        0x0021  !   EXCLAMATION;MARK
+quotedbl                      0x0022  "   QUOTATION;MARK
+numbersign                    0x0023  #   NUMBER;SIGN
+dollar                        0x0024  $   DOLLAR;SIGN
+percent                       0x0025  %   PERCENT;SIGN
+ampersand                     0x0026  &   AMPERSAND
+apostrophe                    0x0027  '   APOSTROPHE
+parenleft                     0x0028  (   LEFT;PARENTHESIS
+parenright                    0x0029  )   RIGHT;PARENTHESIS
+asterisk                      0x002a  *   ASTERISK
+plus                          0x002b  +   PLUS;SIGN
+comma                         0x002c  ,   COMMA
+minus                         0x002d  -   HYPHEN-MINUS
+period                        0x002e  .   FULL;STOP
+slash                         0x002f  /   SOLIDUS
+0                             0x0030  0   DIGIT;ZERO
+1                             0x0031  1   DIGIT;ONE
+2                             0x0032  2   DIGIT;TWO
+3                             0x0033  3   DIGIT;THREE
+4                             0x0034  4   DIGIT;FOUR
+5                             0x0035  5   DIGIT;FIVE
+6                             0x0036  6   DIGIT;SIX
+7                             0x0037  7   DIGIT;SEVEN
+8                             0x0038  8   DIGIT;EIGHT
+9                             0x0039  9   DIGIT;NINE
+colon                         0x003a  :   COLON
+semicolon                     0x003b  ;   SEMICOLON
+less                          0x003c  <   LESS-THAN;SIGN
+equal                         0x003d  =   EQUALS;SIGN
+greater                       0x003e  >   GREATER-THAN;SIGN
+question                      0x003f  ?   QUESTION;MARK
+at                            0x0040  @   COMMERCIAL;AT
+A                             0x0041  A   LATIN;CAPITAL;LETTER;A
+B                             0x0042  B   LATIN;CAPITAL;LETTER;B
+C                             0x0043  C   LATIN;CAPITAL;LETTER;C
+D                             0x0044  D   LATIN;CAPITAL;LETTER;D
+E                             0x0045  E   LATIN;CAPITAL;LETTER;E
+F                             0x0046  F   LATIN;CAPITAL;LETTER;F
+G                             0x0047  G   LATIN;CAPITAL;LETTER;G
+H                             0x0048  H   LATIN;CAPITAL;LETTER;H
+I                             0x0049  I   LATIN;CAPITAL;LETTER;I
+J                             0x004a  J   LATIN;CAPITAL;LETTER;J
+K                             0x004b  K   LATIN;CAPITAL;LETTER;K
+L                             0x004c  L   LATIN;CAPITAL;LETTER;L
+M                             0x004d  M   LATIN;CAPITAL;LETTER;M
+N                             0x004e  N   LATIN;CAPITAL;LETTER;N
+O                             0x004f  O   LATIN;CAPITAL;LETTER;O
+P                             0x0050  P   LATIN;CAPITAL;LETTER;P
+Q                             0x0051  Q   LATIN;CAPITAL;LETTER;Q
+R                             0x0052  R   LATIN;CAPITAL;LETTER;R
+S                             0x0053  S   LATIN;CAPITAL;LETTER;S
+T                             0x0054  T   LATIN;CAPITAL;LETTER;T
+U                             0x0055  U   LATIN;CAPITAL;LETTER;U
+V                             0x0056  V   LATIN;CAPITAL;LETTER;V
+W                             0x0057  W   LATIN;CAPITAL;LETTER;W
+X                             0x0058  X   LATIN;CAPITAL;LETTER;X
+Y                             0x0059  Y   LATIN;CAPITAL;LETTER;Y
+Z                             0x005a  Z   LATIN;CAPITAL;LETTER;Z
+bracketleft                   0x005b  [   LEFT;SQUARE;   BRACKET
+backslash                     0x005c  \   REVERSE;   SOLIDUS
+bracketright                  0x005d  ]   RIGHT;SQUARE;   BRACKET
+asciicircum                   0x005e  ^   CIRCUMFLEX;ACCENT
+underscore                    0x005f  _   LOW;LINE
+grave                         0x0060  `   GRAVE;   ACCENT
+a                             0x0061  a   LATIN;SMALL;LETTER;A
+b                             0x0062  b   LATIN;SMALL;LETTER;B
+c                             0x0063  c   LATIN;SMALL;LETTER;C
+d                             0x0064  d   LATIN;SMALL;LETTER;D
+e                             0x0065  e   LATIN;SMALL;LETTER;E
+f                             0x0066  f   LATIN;SMALL;LETTER;F
+g                             0x0067  g   LATIN;SMALL;LETTER;G
+h                             0x0068  h   LATIN;SMALL;LETTER;H
+i                             0x0069  i   LATIN;SMALL;LETTER;I
+j                             0x006a  j   LATIN;SMALL;LETTER;J
+k                             0x006b  k   LATIN;SMALL;LETTER;K
+l                             0x006c  l   LATIN;SMALL;LETTER;L
+m                             0x006d  m   LATIN;SMALL;LETTER;M
+n                             0x006e  n   LATIN;SMALL;LETTER;N
+o                             0x006f  o   LATIN;SMALL;LETTER;O
+p                             0x0070  p   LATIN;SMALL;LETTER;P
+q                             0x0071  q   LATIN;SMALL;LETTER;Q
+r                             0x0072  r   LATIN;SMALL;LETTER;R
+s                             0x0073  s   LATIN;SMALL;LETTER;S
+t                             0x0074  t   LATIN;SMALL;LETTER;T
+u                             0x0075  u   LATIN;SMALL;LETTER;U
+v                             0x0076  v   LATIN;SMALL;LETTER;V
+w                             0x0077  w   LATIN;SMALL;LETTER;W
+x                             0x0078  x   LATIN;SMALL;LETTER;X
+y                             0x0079  y   LATIN;SMALL;LETTER;Y
+z                             0x007a  z   LATIN;SMALL;LETTER;Z
+braceleft                     0x007b  {   LEFT;CURLY;BRACKET
+bar                           0x007c  |   VERTICAL;LINE
+braceright                    0x007d  }   RIGHT;CURLY;BRACKET
+asciitilde                    0x007e  ~   TILDE
+nobreakspace                  0x00a0      NO-BREAK;SPACE
+exclamdown                    0x00a1  ¡   INVERTED;   EXCLAMATION;MARK
+cent                          0x00a2  ¢   CENT;SIGN
+sterling                      0x00a3  £   POUND;   SIGN
+currency                      0x00a4  ¤   CURRENCY;SIGN
+yen                           0x00a5  ¥   YEN;SIGN
+brokenbar                     0x00a6  ¦   BROKEN;BAR
+section                       0x00a7  §   SECTION;SIGN
+diaeresis                     0x00a8  ¨   DIAERESIS
+copyright                     0x00a9  ©   COPYRIGHT;SIGN
+ordfeminine                   0x00aa  ª   FEMININE;   ORDINAL;INDICATOR
+guillemotleft                 0x00ab  «   LEFT-POINTING;DOUBLE;   ANGLE;   QUOTATION;MARK
+notsign                       0x00ac  ¬   NOT;SIGN
+hyphen                        0x00ad  ­   SOFT;HYPHEN
+registered                    0x00ae  ®   REGISTERED;   SIGN
+macron                        0x00af  ¯   MACRON
+degree                        0x00b0  °   DEGREE;   SIGN
+plusminus                     0x00b1  ±   PLUS-MINUS;SIGN
+twosuperior                   0x00b2  ²   SUPERSCRIPT;TWO
+threesuperior                 0x00b3  ³   SUPERSCRIPT;THREE
+acute                         0x00b4  ´   ACUTE;   ACCENT
+mu                            0x00b5  µ   MICRO;SIGN
+paragraph                     0x00b6  ¶   PILCROW;SIGN
+periodcentered                0x00b7  ·   MIDDLE;   DOT
+cedilla                       0x00b8  ¸   CEDILLA
+onesuperior                   0x00b9  ¹   SUPERSCRIPT;ONE
+masculine                     0x00ba  º   MASCULINE;   ORDINAL;INDICATOR
+guillemotright                0x00bb  »   RIGHT-POINTING;DOUBLE;   ANGLE;   QUOTATION;MARK
+onequarter                    0x00bc  ¼   VULGAR;FRACTION;ONE;   QUARTER
+onehalf                       0x00bd  ½   VULGAR;FRACTION;ONE;   HALF
+threequarters                 0x00be  ¾   VULGAR;FRACTION;THREE;   QUARTERS
+questiondown                  0x00bf  ¿   INVERTED;   QUESTION;MARK
+Agrave                        0x00c0  À   LATIN;CAPITAL;LETTER;A;   WITH;GRAVE
+Aacute                        0x00c1  Á   LATIN;CAPITAL;LETTER;A;   WITH;ACUTE
+Acircumflex                   0x00c2  Â   LATIN;CAPITAL;LETTER;A;   WITH;CIRCUMFLEX
+Atilde                        0x00c3  Ã   LATIN;CAPITAL;LETTER;A;   WITH;TILDE
+Adiaeresis                    0x00c4  Ä   LATIN;CAPITAL;LETTER;A;   WITH;DIAERESIS
+Aring                         0x00c5  Å   LATIN;CAPITAL;LETTER;A;   WITH;RING;ABOVE
+AE                            0x00c6  Æ   LATIN;CAPITAL;LETTER;AE
+Ccedilla                      0x00c7  Ç   LATIN;CAPITAL;LETTER;C;   WITH;CEDILLA
+Egrave                        0x00c8  È   LATIN;CAPITAL;LETTER;E;   WITH;GRAVE
+Eacute                        0x00c9  É   LATIN;CAPITAL;LETTER;E;   WITH;ACUTE
+Ecircumflex                   0x00ca  Ê   LATIN;CAPITAL;LETTER;E;   WITH;CIRCUMFLEX
+Ediaeresis                    0x00cb  Ë   LATIN;CAPITAL;LETTER;E;   WITH;DIAERESIS
+Igrave                        0x00cc  Ì   LATIN;CAPITAL;LETTER;I;WITH;GRAVE
+Iacute                        0x00cd  Í   LATIN;CAPITAL;LETTER;I;WITH;ACUTE
+Icircumflex                   0x00ce  Î   LATIN;CAPITAL;LETTER;I;WITH;CIRCUMFLEX
+Idiaeresis                    0x00cf  Ï   LATIN;CAPITAL;LETTER;I;WITH;DIAERESIS
+ETH                           0x00d0  Ð   LATIN;CAPITAL;LETTER;ETH
+Ntilde                        0x00d1  Ñ   LATIN;CAPITAL;LETTER;N;WITH;TILDE
+Ograve                        0x00d2  Ò   LATIN;CAPITAL;LETTER;O;WITH;GRAVE
+Oacute                        0x00d3  Ó   LATIN;CAPITAL;LETTER;O;WITH;ACUTE
+Ocircumflex                   0x00d4  Ô   LATIN;CAPITAL;LETTER;O;WITH;CIRCUMFLEX
+Otilde                        0x00d5  Õ   LATIN;CAPITAL;LETTER;O;WITH;TILDE
+Odiaeresis                    0x00d6  Ö   LATIN;CAPITAL;LETTER;O;WITH;DIAERESIS
+multiply                      0x00d7  ×   MULTIPLICATION;SIGN
+Oslash                        0x00d8  Ø   LATIN;CAPITAL;LETTER;O;WITH;STROKE
+Ooblique                      0x00d8  Ø   LATIN;CAPITAL;LETTER;O;WITH;STROKE
+Ugrave                        0x00d9  Ù   LATIN;CAPITAL;LETTER;U;WITH;GRAVE
+Uacute                        0x00da  Ú   LATIN;CAPITAL;LETTER;U;WITH;ACUTE
+Ucircumflex                   0x00db  Û   LATIN;CAPITAL;LETTER;U;WITH;CIRCUMFLEX
+Udiaeresis                    0x00dc  Ü   LATIN;CAPITAL;LETTER;U;WITH;DIAERESIS
+Yacute                        0x00dd  Ý   LATIN;CAPITAL;LETTER;Y;WITH;ACUTE
+THORN                         0x00de  Þ   LATIN;CAPITAL;LETTER;THORN
+ssharp                        0x00df  ß   LATIN;SMALL;LETTER;SHARP;S
+agrave                        0x00e0  à   LATIN;SMALL;LETTER;A;   WITH;GRAVE
+aacute                        0x00e1  á   LATIN;SMALL;LETTER;A;   WITH;ACUTE
+acircumflex                   0x00e2  â   LATIN;SMALL;LETTER;A;   WITH;CIRCUMFLEX
+atilde                        0x00e3  ã   LATIN;SMALL;LETTER;A;   WITH;TILDE
+adiaeresis                    0x00e4  ä   LATIN;SMALL;LETTER;A;   WITH;DIAERESIS
+aring                         0x00e5  å   LATIN;SMALL;LETTER;A;   WITH;RING;ABOVE
+ae                            0x00e6  æ   LATIN;SMALL;LETTER;AE
+ccedilla                      0x00e7  ç   LATIN;SMALL;LETTER;C;   WITH;CEDILLA
+egrave                        0x00e8  è   LATIN;SMALL;LETTER;E;   WITH;GRAVE
+eacute                        0x00e9  é   LATIN;SMALL;LETTER;E;   WITH;ACUTE
+ecircumflex                   0x00ea  ê   LATIN;SMALL;LETTER;E;   WITH;CIRCUMFLEX
+ediaeresis                    0x00eb  ë   LATIN;SMALL;LETTER;E;   WITH;DIAERESIS
+igrave                        0x00ec  ì   LATIN;SMALL;LETTER;I;WITH;GRAVE
+iacute                        0x00ed  í   LATIN;SMALL;LETTER;I;WITH;ACUTE
+icircumflex                   0x00ee  î   LATIN;SMALL;LETTER;I;WITH;CIRCUMFLEX
+idiaeresis                    0x00ef  ï   LATIN;SMALL;LETTER;I;WITH;DIAERESIS
+eth                           0x00f0  ð   LATIN;SMALL;LETTER;ETH
+ntilde                        0x00f1  ñ   LATIN;SMALL;LETTER;N;WITH;TILDE
+ograve                        0x00f2  ò   LATIN;SMALL;LETTER;O;WITH;GRAVE
+oacute                        0x00f3  ó   LATIN;SMALL;LETTER;O;WITH;ACUTE
+ocircumflex                   0x00f4  ô   LATIN;SMALL;LETTER;O;WITH;CIRCUMFLEX
+otilde                        0x00f5  õ   LATIN;SMALL;LETTER;O;WITH;TILDE
+odiaeresis                    0x00f6  ö   LATIN;SMALL;LETTER;O;WITH;DIAERESIS
+division                      0x00f7  ÷   DIVISION;SIGN
+oslash                        0x00f8  ø   LATIN;SMALL;LETTER;O;WITH;STROKE
+ooblique                      0x00f8  ø   LATIN;SMALL;LETTER;O;WITH;STROKE
+ugrave                        0x00f9  ù   LATIN;SMALL;LETTER;U;WITH;GRAVE
+uacute                        0x00fa  ú   LATIN;SMALL;LETTER;U;WITH;ACUTE
+ucircumflex                   0x00fb  û   LATIN;SMALL;LETTER;U;WITH;CIRCUMFLEX
+udiaeresis                    0x00fc  ü   LATIN;SMALL;LETTER;U;WITH;DIAERESIS
+yacute                        0x00fd  ý   LATIN;SMALL;LETTER;Y;WITH;ACUTE
+thorn                         0x00fe  þ   LATIN;SMALL;LETTER;THORN
+ydiaeresis                    0x00ff  ÿ   LATIN;SMALL;LETTER;Y;WITH;DIAERESIS
+Aogonek                       0x01a1  Ą   LATIN;CAPITAL;LETTER;A;   WITH;OGONEK
+breve                         0x01a2  ˘   BREVE
+Lstroke                       0x01a3  Ł   LATIN;CAPITAL;LETTER;L;WITH;STROKE
+Lcaron                        0x01a5  Ľ   LATIN;CAPITAL;LETTER;L;WITH;CARON
+Sacute                        0x01a6  Ś   LATIN;CAPITAL;LETTER;S;WITH;ACUTE
+Scaron                        0x01a9  Š   LATIN;CAPITAL;LETTER;S;WITH;CARON
+Scedilla                      0x01aa  Ş   LATIN;CAPITAL;LETTER;S;WITH;CEDILLA
+Tcaron                        0x01ab  Ť   LATIN;CAPITAL;LETTER;T;WITH;CARON
+Zacute                        0x01ac  Ź   LATIN;CAPITAL;LETTER;Z;WITH;ACUTE
+Zcaron                        0x01ae  Ž   LATIN;CAPITAL;LETTER;Z;WITH;CARON
+Zabovedot                     0x01af  Ż   LATIN;CAPITAL;LETTER;Z;WITH;DOT;ABOVE
+aogonek                       0x01b1  ą   LATIN;SMALL;LETTER;A;   WITH;OGONEK
+ogonek                        0x01b2  ˛   OGONEK
+lstroke                       0x01b3  ł   LATIN;SMALL;LETTER;L;WITH;STROKE
+lcaron                        0x01b5  ľ   LATIN;SMALL;LETTER;L;WITH;CARON
+sacute                        0x01b6  ś   LATIN;SMALL;LETTER;S;WITH;ACUTE
+caron                         0x01b7  ˇ   CARON
+scaron                        0x01b9  š   LATIN;SMALL;LETTER;S;WITH;CARON
+scedilla                      0x01ba  ş   LATIN;SMALL;LETTER;S;WITH;CEDILLA
+tcaron                        0x01bb  ť   LATIN;SMALL;LETTER;T;WITH;CARON
+zacute                        0x01bc  ź   LATIN;SMALL;LETTER;Z;WITH;ACUTE
+doubleacute                   0x01bd  ˝   DOUBLE;   ACUTE;   ACCENT
+zcaron                        0x01be  ž   LATIN;SMALL;LETTER;Z;WITH;CARON
+zabovedot                     0x01bf  ż   LATIN;SMALL;LETTER;Z;WITH;DOT;ABOVE
+Racute                        0x01c0  Ŕ   LATIN;CAPITAL;LETTER;R;WITH;ACUTE
+Abreve                        0x01c3  Ă   LATIN;CAPITAL;LETTER;A;   WITH;BREVE
+Lacute                        0x01c5  Ĺ   LATIN;CAPITAL;LETTER;L;WITH;ACUTE
+Cacute                        0x01c6  Ć   LATIN;CAPITAL;LETTER;C;   WITH;ACUTE
+Ccaron                        0x01c8  Č   LATIN;CAPITAL;LETTER;C;   WITH;CARON
+Eogonek                       0x01ca  Ę   LATIN;CAPITAL;LETTER;E;   WITH;OGONEK
+Ecaron                        0x01cc  Ě   LATIN;CAPITAL;LETTER;E;   WITH;CARON
+Dcaron                        0x01cf  Ď   LATIN;CAPITAL;LETTER;D;   WITH;CARON
+Dstroke                       0x01d0  Đ   LATIN;CAPITAL;LETTER;D;   WITH;STROKE
+Nacute                        0x01d1  Ń   LATIN;CAPITAL;LETTER;N;WITH;ACUTE
+Ncaron                        0x01d2  Ň   LATIN;CAPITAL;LETTER;N;WITH;CARON
+Odoubleacute                  0x01d5  Ő   LATIN;CAPITAL;LETTER;O;WITH;DOUBLE;   ACUTE
+Rcaron                        0x01d8  Ř   LATIN;CAPITAL;LETTER;R;WITH;CARON
+Uring                         0x01d9  Ů   LATIN;CAPITAL;LETTER;U;WITH;RING;ABOVE
+Udoubleacute                  0x01db  Ű   LATIN;CAPITAL;LETTER;U;WITH;DOUBLE;   ACUTE
+Tcedilla                      0x01de  Ţ   LATIN;CAPITAL;LETTER;T;WITH;CEDILLA
+racute                        0x01e0  ŕ   LATIN;SMALL;LETTER;R;WITH;ACUTE
+abreve                        0x01e3  ă   LATIN;SMALL;LETTER;A;   WITH;BREVE
+lacute                        0x01e5  ĺ   LATIN;SMALL;LETTER;L;WITH;ACUTE
+cacute                        0x01e6  ć   LATIN;SMALL;LETTER;C;   WITH;ACUTE
+ccaron                        0x01e8  č   LATIN;SMALL;LETTER;C;   WITH;CARON
+eogonek                       0x01ea  ę   LATIN;SMALL;LETTER;E;   WITH;OGONEK
+ecaron                        0x01ec  ě   LATIN;SMALL;LETTER;E;   WITH;CARON
+dcaron                        0x01ef  ď   LATIN;SMALL;LETTER;D;   WITH;CARON
+dstroke                       0x01f0  đ   LATIN;SMALL;LETTER;D;   WITH;STROKE
+nacute                        0x01f1  ń   LATIN;SMALL;LETTER;N;WITH;ACUTE
+ncaron                        0x01f2  ň   LATIN;SMALL;LETTER;N;WITH;CARON
+odoubleacute                  0x01f5  ő   LATIN;SMALL;LETTER;O;WITH;DOUBLE;   ACUTE
+udoubleacute                  0x01fb  ű   LATIN;SMALL;LETTER;U;WITH;DOUBLE;   ACUTE
+rcaron                        0x01f8  ř   LATIN;SMALL;LETTER;R;WITH;CARON
+uring                         0x01f9  ů   LATIN;SMALL;LETTER;U;WITH;RING;ABOVE
+tcedilla                      0x01fe  ţ   LATIN;SMALL;LETTER;T;WITH;CEDILLA
+abovedot                      0x01ff  ˙   DOT;ABOVE
+Hstroke                       0x02a1  Ħ   LATIN;CAPITAL;LETTER;H;WITH;STROKE
+Hcircumflex                   0x02a6  Ĥ   LATIN;CAPITAL;LETTER;H;WITH;CIRCUMFLEX
+Iabovedot                     0x02a9  İ   LATIN;CAPITAL;LETTER;I;WITH;DOT;ABOVE
+Gbreve                        0x02ab  Ğ   LATIN;CAPITAL;LETTER;G;WITH;BREVE
+Jcircumflex                   0x02ac  Ĵ   LATIN;CAPITAL;LETTER;J;WITH;CIRCUMFLEX
+hstroke                       0x02b1  ħ   LATIN;SMALL;LETTER;H;WITH;STROKE
+hcircumflex                   0x02b6  ĥ   LATIN;SMALL;LETTER;H;WITH;CIRCUMFLEX
+idotless                      0x02b9  ı   LATIN;SMALL;LETTER;DOTLESS;I
+gbreve                        0x02bb  ğ   LATIN;SMALL;LETTER;G;WITH;BREVE
+jcircumflex                   0x02bc  ĵ   LATIN;SMALL;LETTER;J;WITH;CIRCUMFLEX
+Cabovedot                     0x02c5  Ċ   LATIN;CAPITAL;LETTER;C;   WITH;DOT;ABOVE
+Ccircumflex                   0x02c6  Ĉ   LATIN;CAPITAL;LETTER;C;   WITH;CIRCUMFLEX
+Gabovedot                     0x02d5  Ġ   LATIN;CAPITAL;LETTER;G;WITH;DOT;ABOVE
+Gcircumflex                   0x02d8  Ĝ   LATIN;CAPITAL;LETTER;G;WITH;CIRCUMFLEX
+Ubreve                        0x02dd  Ŭ   LATIN;CAPITAL;LETTER;U;WITH;BREVE
+Scircumflex                   0x02de  Ŝ   LATIN;CAPITAL;LETTER;S;WITH;CIRCUMFLEX
+cabovedot                     0x02e5  ċ   LATIN;SMALL;LETTER;C;   WITH;DOT;ABOVE
+ccircumflex                   0x02e6  ĉ   LATIN;SMALL;LETTER;C;   WITH;CIRCUMFLEX
+gabovedot                     0x02f5  ġ   LATIN;SMALL;LETTER;G;WITH;DOT;ABOVE
+gcircumflex                   0x02f8  ĝ   LATIN;SMALL;LETTER;G;WITH;CIRCUMFLEX
+ubreve                        0x02fd  ŭ   LATIN;SMALL;LETTER;U;WITH;BREVE
+scircumflex                   0x02fe  ŝ   LATIN;SMALL;LETTER;S;WITH;CIRCUMFLEX
+kra                           0x03a2  ĸ   LATIN;SMALL;LETTER;KRA
+Rcedilla                      0x03a3  Ŗ   LATIN;CAPITAL;LETTER;R;WITH;CEDILLA
+Itilde                        0x03a5  Ĩ   LATIN;CAPITAL;LETTER;I;WITH;TILDE
+Lcedilla                      0x03a6  Ļ   LATIN;CAPITAL;LETTER;L;WITH;CEDILLA
+Emacron                       0x03aa  Ē   LATIN;CAPITAL;LETTER;E;   WITH;MACRON
+Gcedilla                      0x03ab  Ģ   LATIN;CAPITAL;LETTER;G;WITH;CEDILLA
+Tslash                        0x03ac  Ŧ   LATIN;CAPITAL;LETTER;T;WITH;STROKE
+rcedilla                      0x03b3  ŗ   LATIN;SMALL;LETTER;R;WITH;CEDILLA
+itilde                        0x03b5  ĩ   LATIN;SMALL;LETTER;I;WITH;TILDE
+lcedilla                      0x03b6  ļ   LATIN;SMALL;LETTER;L;WITH;CEDILLA
+emacron                       0x03ba  ē   LATIN;SMALL;LETTER;E;   WITH;MACRON
+gcedilla                      0x03bb  ģ   LATIN;SMALL;LETTER;G;WITH;CEDILLA
+tslash                        0x03bc  ŧ   LATIN;SMALL;LETTER;T;WITH;STROKE
+ENG                           0x03bd  Ŋ   LATIN;CAPITAL;LETTER;ENG
+eng                           0x03bf  ŋ   LATIN;SMALL;LETTER;ENG
+Amacron                       0x03c0  Ā   LATIN;CAPITAL;LETTER;A;   WITH;MACRON
+Iogonek                       0x03c7  Į   LATIN;CAPITAL;LETTER;I;WITH;OGONEK
+Eabovedot                     0x03cc  Ė   LATIN;CAPITAL;LETTER;E;   WITH;DOT;ABOVE
+Imacron                       0x03cf  Ī   LATIN;CAPITAL;LETTER;I;WITH;MACRON
+Ncedilla                      0x03d1  Ņ   LATIN;CAPITAL;LETTER;N;WITH;CEDILLA
+Omacron                       0x03d2  Ō   LATIN;CAPITAL;LETTER;O;WITH;MACRON
+Kcedilla                      0x03d3  Ķ   LATIN;CAPITAL;LETTER;K;WITH;CEDILLA
+Uogonek                       0x03d9  Ų   LATIN;CAPITAL;LETTER;U;WITH;OGONEK
+Utilde                        0x03dd  Ũ   LATIN;CAPITAL;LETTER;U;WITH;TILDE
+Umacron                       0x03de  Ū   LATIN;CAPITAL;LETTER;U;WITH;MACRON
+amacron                       0x03e0  ā   LATIN;SMALL;LETTER;A;   WITH;MACRON
+iogonek                       0x03e7  į   LATIN;SMALL;LETTER;I;WITH;OGONEK
+eabovedot                     0x03ec  ė   LATIN;SMALL;LETTER;E;   WITH;DOT;ABOVE
+imacron                       0x03ef  ī   LATIN;SMALL;LETTER;I;WITH;MACRON
+ncedilla                      0x03f1  ņ   LATIN;SMALL;LETTER;N;WITH;CEDILLA
+omacron                       0x03f2  ō   LATIN;SMALL;LETTER;O;WITH;MACRON
+kcedilla                      0x03f3  ķ   LATIN;SMALL;LETTER;K;WITH;CEDILLA
+uogonek                       0x03f9  ų   LATIN;SMALL;LETTER;U;WITH;OGONEK
+utilde                        0x03fd  ũ   LATIN;SMALL;LETTER;U;WITH;TILDE
+umacron                       0x03fe  ū   LATIN;SMALL;LETTER;U;WITH;MACRON
+Babovedot                  0x1001e02  Ḃ   LATIN;CAPITAL;LETTER;B;   WITH;DOT;ABOVE
+babovedot                  0x1001e03  ḃ   LATIN;SMALL;LETTER;B;   WITH;DOT;ABOVE
+Dabovedot                  0x1001e0a  Ḋ   LATIN;CAPITAL;LETTER;D;   WITH;DOT;ABOVE
+Wgrave                     0x1001e80  Ẁ   LATIN;CAPITAL;LETTER;W;WITH;GRAVE
+Wacute                     0x1001e82  Ẃ   LATIN;CAPITAL;LETTER;W;WITH;ACUTE
+dabovedot                  0x1001e0b  ḋ   LATIN;SMALL;LETTER;D;   WITH;DOT;ABOVE
+Ygrave                     0x1001ef2  Ỳ   LATIN;CAPITAL;LETTER;Y;WITH;GRAVE
+Fabovedot                  0x1001e1e  Ḟ   LATIN;CAPITAL;LETTER;F;   WITH;DOT;ABOVE
+fabovedot                  0x1001e1f  ḟ   LATIN;SMALL;LETTER;F;   WITH;DOT;ABOVE
+Mabovedot                  0x1001e40  Ṁ   LATIN;CAPITAL;LETTER;M;WITH;DOT;ABOVE
+mabovedot                  0x1001e41  ṁ   LATIN;SMALL;LETTER;M;WITH;DOT;ABOVE
+Pabovedot                  0x1001e56  Ṗ   LATIN;CAPITAL;LETTER;P;WITH;DOT;ABOVE
+wgrave                     0x1001e81  ẁ   LATIN;SMALL;LETTER;W;WITH;GRAVE
+pabovedot                  0x1001e57  ṗ   LATIN;SMALL;LETTER;P;WITH;DOT;ABOVE
+wacute                     0x1001e83  ẃ   LATIN;SMALL;LETTER;W;WITH;ACUTE
+Sabovedot                  0x1001e60  Ṡ   LATIN;CAPITAL;LETTER;S;WITH;DOT;ABOVE
+ygrave                     0x1001ef3  ỳ   LATIN;SMALL;LETTER;Y;WITH;GRAVE
+Wdiaeresis                 0x1001e84  Ẅ   LATIN;CAPITAL;LETTER;W;WITH;DIAERESIS
+wdiaeresis                 0x1001e85  ẅ   LATIN;SMALL;LETTER;W;WITH;DIAERESIS
+sabovedot                  0x1001e61  ṡ   LATIN;SMALL;LETTER;S;WITH;DOT;ABOVE
+Wcircumflex                0x1000174  Ŵ   LATIN;CAPITAL;LETTER;W;WITH;CIRCUMFLEX
+Tabovedot                  0x1001e6a  Ṫ   LATIN;CAPITAL;LETTER;T;WITH;DOT;ABOVE
+Ycircumflex                0x1000176  Ŷ   LATIN;CAPITAL;LETTER;Y;WITH;CIRCUMFLEX
+wcircumflex                0x1000175  ŵ   LATIN;SMALL;LETTER;W;WITH;CIRCUMFLEX
+tabovedot                  0x1001e6b  ṫ   LATIN;SMALL;LETTER;T;WITH;DOT;ABOVE
+ycircumflex                0x1000177  ŷ   LATIN;SMALL;LETTER;Y;WITH;CIRCUMFLEX
+OE                            0x13bc  Œ   LATIN;CAPITAL;LIGATURE;   OE
+oe                            0x13bd  œ   LATIN;SMALL;LIGATURE;   OE
+Ydiaeresis                    0x13be  Ÿ   LATIN;CAPITAL;LETTER;Y;WITH;DIAERESIS
+overline                      0x047e  ‾   OVERLINE
+kana_fullstop                 0x04a1  。   IDEOGRAPHIC;   FULL;STOP
+kana_openingbracket           0x04a2  「   LEFT;CORNER;BRACKET
+kana_closingbracket           0x04a3  」   RIGHT;CORNER;BRACKET
+kana_comma                    0x04a4  、   IDEOGRAPHIC;   COMMA
+kana_conjunctive              0x04a5  ・   KATAKANA;   MIDDLE;   DOT
+kana_WO                       0x04a6  ヲ   KATAKANA;   LETTER;WO
+kana_a                        0x04a7  ァ   KATAKANA;   LETTER;SMALL;A
+kana_i                        0x04a8  ィ   KATAKANA;   LETTER;SMALL;I
+kana_u                        0x04a9  ゥ   KATAKANA;   LETTER;SMALL;U
+kana_e                        0x04aa  ェ   KATAKANA;   LETTER;SMALL;E
+kana_o                        0x04ab  ォ   KATAKANA;   LETTER;SMALL;O
+kana_ya                       0x04ac  ャ   KATAKANA;   LETTER;SMALL;YA
+kana_yu                       0x04ad  ュ   KATAKANA;   LETTER;SMALL;YU
+kana_yo                       0x04ae  ョ   KATAKANA;   LETTER;SMALL;YO
+kana_tsu                      0x04af  ッ   KATAKANA;   LETTER;SMALL;TU
+prolongedsound                0x04b0  ー   KATAKANA-HIRAGANA;   PROLONGED;   SOUND;   MARK
+kana_A                        0x04b1  ア   KATAKANA;   LETTER;A
+kana_I                        0x04b2  イ   KATAKANA;   LETTER;I
+kana_U                        0x04b3  ウ   KATAKANA;   LETTER;U
+kana_E                        0x04b4  エ   KATAKANA;   LETTER;E
+kana_O                        0x04b5  オ   KATAKANA;   LETTER;O
+kana_KA                       0x04b6  カ   KATAKANA;   LETTER;KA
+kana_KI                       0x04b7  キ   KATAKANA;   LETTER;KI
+kana_KU                       0x04b8  ク   KATAKANA;   LETTER;KU
+kana_KE                       0x04b9  ケ   KATAKANA;   LETTER;KE
+kana_KO                       0x04ba  コ   KATAKANA;   LETTER;KO
+kana_SA                       0x04bb  サ   KATAKANA;   LETTER;SA
+kana_SHI                      0x04bc  シ   KATAKANA;   LETTER;SI
+kana_SU                       0x04bd  ス   KATAKANA;   LETTER;SU
+kana_SE                       0x04be  セ   KATAKANA;   LETTER;SE
+kana_SO                       0x04bf  ソ   KATAKANA;   LETTER;SO
+kana_TA                       0x04c0  タ   KATAKANA;   LETTER;TA
+kana_CHI                      0x04c1  チ   KATAKANA;   LETTER;TI
+kana_TSU                      0x04c2  ツ   KATAKANA;   LETTER;TU
+kana_TE                       0x04c3  テ   KATAKANA;   LETTER;TE
+kana_TO                       0x04c4  ト   KATAKANA;   LETTER;TO
+kana_NA                       0x04c5  ナ   KATAKANA;   LETTER;NA
+kana_NI                       0x04c6  ニ   KATAKANA;   LETTER;NI
+kana_NU                       0x04c7  ヌ   KATAKANA;   LETTER;NU
+kana_NE                       0x04c8  ネ   KATAKANA;   LETTER;NE
+kana_NO                       0x04c9  ノ   KATAKANA;   LETTER;NO
+kana_HA                       0x04ca  ハ   KATAKANA;   LETTER;HA
+kana_HI                       0x04cb  ヒ   KATAKANA;   LETTER;HI
+kana_FU                       0x04cc  フ   KATAKANA;   LETTER;HU
+kana_HE                       0x04cd  ヘ   KATAKANA;   LETTER;HE
+kana_HO                       0x04ce  ホ   KATAKANA;   LETTER;HO
+kana_MA                       0x04cf  マ   KATAKANA;   LETTER;MA
+kana_MI                       0x04d0  ミ   KATAKANA;   LETTER;MI
+kana_MU                       0x04d1  ム   KATAKANA;   LETTER;MU
+kana_ME                       0x04d2  メ   KATAKANA;   LETTER;ME
+kana_MO                       0x04d3  モ   KATAKANA;   LETTER;MO
+kana_YA                       0x04d4  ヤ   KATAKANA;   LETTER;YA
+kana_YU                       0x04d5  ユ   KATAKANA;   LETTER;YU
+kana_YO                       0x04d6  ヨ   KATAKANA;   LETTER;YO
+kana_RA                       0x04d7  ラ   KATAKANA;   LETTER;RA
+kana_RI                       0x04d8  リ   KATAKANA;   LETTER;RI
+kana_RU                       0x04d9  ル   KATAKANA;   LETTER;RU
+kana_RE                       0x04da  レ   KATAKANA;   LETTER;RE
+kana_RO                       0x04db  ロ   KATAKANA;   LETTER;RO
+kana_WA                       0x04dc  ワ   KATAKANA;   LETTER;WA
+kana_N                        0x04dd  ン   KATAKANA;   LETTER;N
+voicedsound                   0x04de  ゛   KATAKANA-HIRAGANA;   VOICED;   SOUND;   MARK
+semivoicedsound               0x04df  ゜   KATAKANA-HIRAGANA;   SEMI-VOICED;   SOUND;   MARK
+Farsi_0                    0x10006f0  ۰   EXTENDED;   ARABIC-INDIC;   DIGIT;ZERO
+Farsi_1                    0x10006f1  ۱   EXTENDED;   ARABIC-INDIC;   DIGIT;ONE
+Farsi_2                    0x10006f2  ۲   EXTENDED;   ARABIC-INDIC;   DIGIT;TWO
+Farsi_3                    0x10006f3  ۳   EXTENDED;   ARABIC-INDIC;   DIGIT;THREE
+Farsi_4                    0x10006f4  ۴   EXTENDED;   ARABIC-INDIC;   DIGIT;FOUR
+Farsi_5                    0x10006f5  ۵   EXTENDED;   ARABIC-INDIC;   DIGIT;FIVE
+Farsi_6                    0x10006f6  ۶   EXTENDED;   ARABIC-INDIC;   DIGIT;SIX
+Farsi_7                    0x10006f7  ۷   EXTENDED;   ARABIC-INDIC;   DIGIT;SEVEN
+Farsi_8                    0x10006f8  ۸   EXTENDED;   ARABIC-INDIC;   DIGIT;EIGHT
+Farsi_9                    0x10006f9  ۹   EXTENDED;   ARABIC-INDIC;   DIGIT;NINE
+Arabic_percent             0x100066a  ٪   ARABIC;   PERCENT;SIGN
+Arabic_superscript_alef    0x1000670  ٰ   ARABIC;   LETTER;SUPERSCRIPT;ALEF
+Arabic_tteh                0x1000679  ٹ   ARABIC;   LETTER;TTEH
+Arabic_peh                 0x100067e  پ   ARABIC;   LETTER;PEH
+Arabic_tcheh               0x1000686  چ   ARABIC;   LETTER;TCHEH
+Arabic_ddal                0x1000688  ڈ   ARABIC;   LETTER;DDAL
+Arabic_rreh                0x1000691  ڑ   ARABIC;   LETTER;RREH
+Arabic_comma                  0x05ac  ،   ARABIC;   COMMA
+Arabic_fullstop            0x10006d4  ۔   ARABIC;   FULL;STOP
+Arabic_0                   0x1000660  ٠   ARABIC-INDIC;   DIGIT;ZERO
+Arabic_1                   0x1000661  ١   ARABIC-INDIC;   DIGIT;ONE
+Arabic_2                   0x1000662  ٢   ARABIC-INDIC;   DIGIT;TWO
+Arabic_3                   0x1000663  ٣   ARABIC-INDIC;   DIGIT;THREE
+Arabic_4                   0x1000664  ٤   ARABIC-INDIC;   DIGIT;FOUR
+Arabic_5                   0x1000665  ٥   ARABIC-INDIC;   DIGIT;FIVE
+Arabic_6                   0x1000666  ٦   ARABIC-INDIC;   DIGIT;SIX
+Arabic_7                   0x1000667  ٧   ARABIC-INDIC;   DIGIT;SEVEN
+Arabic_8                   0x1000668  ٨   ARABIC-INDIC;   DIGIT;EIGHT
+Arabic_9                   0x1000669  ٩   ARABIC-INDIC;   DIGIT;NINE
+Arabic_semicolon              0x05bb  ؛   ARABIC;   SEMICOLON
+Arabic_question_mark          0x05bf  ؟   ARABIC;   QUESTION;MARK
+Arabic_hamza                  0x05c1  ء   ARABIC;   LETTER;HAMZA
+Arabic_maddaonalef            0x05c2  آ   ARABIC;   LETTER;ALEF;   WITH;MADDA;   ABOVE
+Arabic_hamzaonalef            0x05c3  أ   ARABIC;   LETTER;ALEF;   WITH;HAMZA;   ABOVE
+Arabic_hamzaonwaw             0x05c4  ؤ   ARABIC;   LETTER;WAW;WITH;HAMZA;   ABOVE
+Arabic_hamzaunderalef         0x05c5  إ   ARABIC;   LETTER;ALEF;   WITH;HAMZA;   BELOW
+Arabic_hamzaonyeh             0x05c6  ئ   ARABIC;   LETTER;YEH;WITH;HAMZA;   ABOVE
+Arabic_alef                   0x05c7  ا   ARABIC;   LETTER;ALEF
+Arabic_beh                    0x05c8  ب   ARABIC;   LETTER;BEH
+Arabic_tehmarbuta             0x05c9  ة   ARABIC;   LETTER;TEH;MARBUTA
+Arabic_teh                    0x05ca  ت   ARABIC;   LETTER;TEH
+Arabic_theh                   0x05cb  ث   ARABIC;   LETTER;THEH
+Arabic_jeem                   0x05cc  ج   ARABIC;   LETTER;JEEM
+Arabic_hah                    0x05cd  ح   ARABIC;   LETTER;HAH
+Arabic_khah                   0x05ce  خ   ARABIC;   LETTER;KHAH
+Arabic_dal                    0x05cf  د   ARABIC;   LETTER;DAL
+Arabic_thal                   0x05d0  ذ   ARABIC;   LETTER;THAL
+Arabic_ra                     0x05d1  ر   ARABIC;   LETTER;REH
+Arabic_zain                   0x05d2  ز   ARABIC;   LETTER;ZAIN
+Arabic_seen                   0x05d3  س   ARABIC;   LETTER;SEEN
+Arabic_sheen                  0x05d4  ش   ARABIC;   LETTER;SHEEN
+Arabic_sad                    0x05d5  ص   ARABIC;   LETTER;SAD
+Arabic_dad                    0x05d6  ض   ARABIC;   LETTER;DAD
+Arabic_tah                    0x05d7  ط   ARABIC;   LETTER;TAH
+Arabic_zah                    0x05d8  ظ   ARABIC;   LETTER;ZAH
+Arabic_ain                    0x05d9  ع   ARABIC;   LETTER;AIN
+Arabic_ghain                  0x05da  غ   ARABIC;   LETTER;GHAIN
+Arabic_tatweel                0x05e0  ـ   ARABIC;   TATWEEL
+Arabic_feh                    0x05e1  ف   ARABIC;   LETTER;FEH
+Arabic_qaf                    0x05e2  ق   ARABIC;   LETTER;QAF
+Arabic_kaf                    0x05e3  ك   ARABIC;   LETTER;KAF
+Arabic_lam                    0x05e4  ل   ARABIC;   LETTER;LAM
+Arabic_meem                   0x05e5  م   ARABIC;   LETTER;MEEM
+Arabic_noon                   0x05e6  ن   ARABIC;   LETTER;NOON
+Arabic_ha                     0x05e7  ه   ARABIC;   LETTER;HEH
+Arabic_waw                    0x05e8  و   ARABIC;   LETTER;WAW
+Arabic_alefmaksura            0x05e9  ى   ARABIC;   LETTER;ALEF;   MAKSURA
+Arabic_yeh                    0x05ea  ي   ARABIC;   LETTER;YEH
+Arabic_fathatan               0x05eb  ً   ARABIC;   FATHATAN
+Arabic_dammatan               0x05ec  ٌ   ARABIC;   DAMMATAN
+Arabic_kasratan               0x05ed  ٍ   ARABIC;   KASRATAN
+Arabic_fatha                  0x05ee  َ   ARABIC;   FATHA
+Arabic_damma                  0x05ef  ُ   ARABIC;   DAMMA
+Arabic_kasra                  0x05f0  ِ   ARABIC;   KASRA
+Arabic_shadda                 0x05f1  ّ   ARABIC;   SHADDA
+Arabic_sukun                  0x05f2  ْ   ARABIC;   SUKUN
+Arabic_madda_above         0x1000653  ٓ   ARABIC;   MADDAH;ABOVE
+Arabic_hamza_above         0x1000654  ٔ   ARABIC;   HAMZA;   ABOVE
+Arabic_hamza_below         0x1000655  ٕ   ARABIC;   HAMZA;   BELOW
+Arabic_jeh                 0x1000698  ژ   ARABIC;   LETTER;JEH
+Arabic_veh                 0x10006a4  ڤ   ARABIC;   LETTER;VEH
+Arabic_keheh               0x10006a9  ک   ARABIC;   LETTER;KEHEH
+Arabic_gaf                 0x10006af  گ   ARABIC;   LETTER;GAF
+Arabic_noon_ghunna         0x10006ba  ں   ARABIC;   LETTER;NOON;GHUNNA
+Arabic_heh_doachashmee     0x10006be  ھ   ARABIC;   LETTER;HEH;DOACHASHMEE
+Farsi_yeh                  0x10006cc  ی   ARABIC;   LETTER;FARSI;YEH
+Arabic_farsi_yeh           0x10006cc  ی   ARABIC;   LETTER;FARSI;YEH
+Arabic_yeh_baree           0x10006d2  ے   ARABIC;   LETTER;YEH;BARREE
+Arabic_heh_goal            0x10006c1  ہ   ARABIC;   LETTER;HEH;GOAL
+Cyrillic_GHE_bar           0x1000492  Ғ   CYRILLIC;   CAPITAL;LETTER;GHE;   WITH;STROKE
+Cyrillic_ghe_bar           0x1000493  ғ   CYRILLIC;   SMALL;LETTER;GHE;   WITH;STROKE
+Cyrillic_ZHE_descender     0x1000496  Җ   CYRILLIC;   CAPITAL;LETTER;ZHE;   WITH;DESCENDER
+Cyrillic_zhe_descender     0x1000497  җ   CYRILLIC;   SMALL;LETTER;ZHE;   WITH;DESCENDER
+Cyrillic_KA_descender      0x100049a  Қ   CYRILLIC;   CAPITAL;LETTER;KA;   WITH;DESCENDER
+Cyrillic_ka_descender      0x100049b  қ   CYRILLIC;   SMALL;LETTER;KA;   WITH;DESCENDER
+Cyrillic_KA_vertstroke     0x100049c  Ҝ   CYRILLIC;   CAPITAL;LETTER;KA;   WITH;VERTICAL;STROKE
+Cyrillic_ka_vertstroke     0x100049d  ҝ   CYRILLIC;   SMALL;LETTER;KA;   WITH;VERTICAL;STROKE
+Cyrillic_EN_descender      0x10004a2  Ң   CYRILLIC;   CAPITAL;LETTER;EN;WITH;DESCENDER
+Cyrillic_en_descender      0x10004a3  ң   CYRILLIC;   SMALL;LETTER;EN;WITH;DESCENDER
+Cyrillic_U_straight        0x10004ae  Ү   CYRILLIC;   CAPITAL;LETTER;STRAIGHT;U
+Cyrillic_u_straight        0x10004af  ү   CYRILLIC;   SMALL;LETTER;STRAIGHT;U
+Cyrillic_U_straight_bar    0x10004b0  Ұ   CYRILLIC;   CAPITAL;LETTER;STRAIGHT;U;WITH;STROKE
+Cyrillic_u_straight_bar    0x10004b1  ұ   CYRILLIC;   SMALL;LETTER;STRAIGHT;U;WITH;STROKE
+Cyrillic_HA_descender      0x10004b2  Ҳ   CYRILLIC;   CAPITAL;LETTER;HA;   WITH;DESCENDER
+Cyrillic_ha_descender      0x10004b3  ҳ   CYRILLIC;   SMALL;LETTER;HA;   WITH;DESCENDER
+Cyrillic_CHE_descender     0x10004b6  Ҷ   CYRILLIC;   CAPITAL;LETTER;CHE;   WITH;DESCENDER
+Cyrillic_che_descender     0x10004b7  ҷ   CYRILLIC;   SMALL;LETTER;CHE;   WITH;DESCENDER
+Cyrillic_CHE_vertstroke    0x10004b8  Ҹ   CYRILLIC;   CAPITAL;LETTER;CHE;   WITH;VERTICAL;STROKE
+Cyrillic_che_vertstroke    0x10004b9  ҹ   CYRILLIC;   SMALL;LETTER;CHE;   WITH;VERTICAL;STROKE
+Cyrillic_SHHA              0x10004ba  Һ   CYRILLIC;   CAPITAL;LETTER;SHHA
+Cyrillic_shha              0x10004bb  һ   CYRILLIC;   SMALL;LETTER;SHHA
+Cyrillic_SCHWA             0x10004d8  Ә   CYRILLIC;   CAPITAL;LETTER;SCHWA
+Cyrillic_schwa             0x10004d9  ә   CYRILLIC;   SMALL;LETTER;SCHWA
+Cyrillic_I_macron          0x10004e2  Ӣ   CYRILLIC;   CAPITAL;LETTER;I;WITH;MACRON
+Cyrillic_i_macron          0x10004e3  ӣ   CYRILLIC;   SMALL;LETTER;I;WITH;MACRON
+Cyrillic_O_bar             0x10004e8  Ө   CYRILLIC;   CAPITAL;LETTER;BARRED;   O
+Cyrillic_o_bar             0x10004e9  ө   CYRILLIC;   SMALL;LETTER;BARRED;   O
+Cyrillic_U_macron          0x10004ee  Ӯ   CYRILLIC;   CAPITAL;LETTER;U;WITH;MACRON
+Cyrillic_u_macron          0x10004ef  ӯ   CYRILLIC;   SMALL;LETTER;U;WITH;MACRON
+Serbian_dje                   0x06a1  ђ   CYRILLIC;   SMALL;LETTER;DJE
+Macedonia_gje                 0x06a2  ѓ   CYRILLIC;   SMALL;LETTER;GJE
+Cyrillic_io                   0x06a3  ё   CYRILLIC;   SMALL;LETTER;IO
+Ukrainian_ie                  0x06a4  є   CYRILLIC;   SMALL;LETTER;UKRAINIAN;IE
+Macedonia_dse                 0x06a5  ѕ   CYRILLIC;   SMALL;LETTER;DZE
+Ukrainian_i                   0x06a6  і   CYRILLIC;   SMALL;LETTER;BYELORUSSIAN-UKRAINIAN;I
+Ukrainian_yi                  0x06a7  ї   CYRILLIC;   SMALL;LETTER;YI
+Cyrillic_je                   0x06a8  ј   CYRILLIC;   SMALL;LETTER;JE
+Cyrillic_lje                  0x06a9  љ   CYRILLIC;   SMALL;LETTER;LJE
+Cyrillic_nje                  0x06aa  њ   CYRILLIC;   SMALL;LETTER;NJE
+Serbian_tshe                  0x06ab  ћ   CYRILLIC;   SMALL;LETTER;TSHE
+Macedonia_kje                 0x06ac  ќ   CYRILLIC;   SMALL;LETTER;KJE
+Ukrainian_ghe_with_upturn     0x06ad  ґ   CYRILLIC;   SMALL;LETTER;GHE;   WITH;UPTURN
+Byelorussian_shortu           0x06ae  ў   CYRILLIC;   SMALL;LETTER;SHORT;U
+Cyrillic_dzhe                 0x06af  џ   CYRILLIC;   SMALL;LETTER;DZHE
+numerosign                    0x06b0  №   NUMERO;SIGN
+Serbian_DJE                   0x06b1  Ђ   CYRILLIC;   CAPITAL;LETTER;DJE
+Macedonia_GJE                 0x06b2  Ѓ   CYRILLIC;   CAPITAL;LETTER;GJE
+Cyrillic_IO                   0x06b3  Ё   CYRILLIC;   CAPITAL;LETTER;IO
+Ukrainian_IE                  0x06b4  Є   CYRILLIC;   CAPITAL;LETTER;UKRAINIAN;IE
+Macedonia_DSE                 0x06b5  Ѕ   CYRILLIC;   CAPITAL;LETTER;DZE
+Ukrainian_I                   0x06b6  І   CYRILLIC;   CAPITAL;LETTER;BYELORUSSIAN-UKRAINIAN;I
+Ukrainian_YI                  0x06b7  Ї   CYRILLIC;   CAPITAL;LETTER;YI
+Cyrillic_JE                   0x06b8  Ј   CYRILLIC;   CAPITAL;LETTER;JE
+Cyrillic_LJE                  0x06b9  Љ   CYRILLIC;   CAPITAL;LETTER;LJE
+Cyrillic_NJE                  0x06ba  Њ   CYRILLIC;   CAPITAL;LETTER;NJE
+Serbian_TSHE                  0x06bb  Ћ   CYRILLIC;   CAPITAL;LETTER;TSHE
+Macedonia_KJE                 0x06bc  Ќ   CYRILLIC;   CAPITAL;LETTER;KJE
+Ukrainian_GHE_WITH_UPTURN     0x06bd  Ґ   CYRILLIC;   CAPITAL;LETTER;GHE;   WITH;UPTURN
+Byelorussian_SHORTU           0x06be  Ў   CYRILLIC;   CAPITAL;LETTER;SHORT;U
+Cyrillic_DZHE                 0x06bf  Џ   CYRILLIC;   CAPITAL;LETTER;DZHE
+Cyrillic_yu                   0x06c0  ю   CYRILLIC;   SMALL;LETTER;YU
+Cyrillic_a                    0x06c1  а   CYRILLIC;   SMALL;LETTER;A
+Cyrillic_be                   0x06c2  б   CYRILLIC;   SMALL;LETTER;BE
+Cyrillic_tse                  0x06c3  ц   CYRILLIC;   SMALL;LETTER;TSE
+Cyrillic_de                   0x06c4  д   CYRILLIC;   SMALL;LETTER;DE
+Cyrillic_ie                   0x06c5  е   CYRILLIC;   SMALL;LETTER;IE
+Cyrillic_ef                   0x06c6  ф   CYRILLIC;   SMALL;LETTER;EF
+Cyrillic_ghe                  0x06c7  г   CYRILLIC;   SMALL;LETTER;GHE
+Cyrillic_ha                   0x06c8  х   CYRILLIC;   SMALL;LETTER;HA
+Cyrillic_i                    0x06c9  и   CYRILLIC;   SMALL;LETTER;I
+Cyrillic_shorti               0x06ca  й   CYRILLIC;   SMALL;LETTER;SHORT;I
+Cyrillic_ka                   0x06cb  к   CYRILLIC;   SMALL;LETTER;KA
+Cyrillic_el                   0x06cc  л   CYRILLIC;   SMALL;LETTER;EL
+Cyrillic_em                   0x06cd  м   CYRILLIC;   SMALL;LETTER;EM
+Cyrillic_en                   0x06ce  н   CYRILLIC;   SMALL;LETTER;EN
+Cyrillic_o                    0x06cf  о   CYRILLIC;   SMALL;LETTER;O
+Cyrillic_pe                   0x06d0  п   CYRILLIC;   SMALL;LETTER;PE
+Cyrillic_ya                   0x06d1  я   CYRILLIC;   SMALL;LETTER;YA
+Cyrillic_er                   0x06d2  р   CYRILLIC;   SMALL;LETTER;ER
+Cyrillic_es                   0x06d3  с   CYRILLIC;   SMALL;LETTER;ES
+Cyrillic_te                   0x06d4  т   CYRILLIC;   SMALL;LETTER;TE
+Cyrillic_u                    0x06d5  у   CYRILLIC;   SMALL;LETTER;U
+Cyrillic_zhe                  0x06d6  ж   CYRILLIC;   SMALL;LETTER;ZHE
+Cyrillic_ve                   0x06d7  в   CYRILLIC;   SMALL;LETTER;VE
+Cyrillic_softsign             0x06d8  ь   CYRILLIC;   SMALL;LETTER;SOFT;SIGN
+Cyrillic_yeru                 0x06d9  ы   CYRILLIC;   SMALL;LETTER;YERU
+Cyrillic_ze                   0x06da  з   CYRILLIC;   SMALL;LETTER;ZE
+Cyrillic_sha                  0x06db  ш   CYRILLIC;   SMALL;LETTER;SHA
+Cyrillic_e                    0x06dc  э   CYRILLIC;   SMALL;LETTER;E
+Cyrillic_shcha                0x06dd  щ   CYRILLIC;   SMALL;LETTER;SHCHA
+Cyrillic_che                  0x06de  ч   CYRILLIC;   SMALL;LETTER;CHE
+Cyrillic_hardsign             0x06df  ъ   CYRILLIC;   SMALL;LETTER;HARD;   SIGN
+Cyrillic_YU                   0x06e0  Ю   CYRILLIC;   CAPITAL;LETTER;YU
+Cyrillic_A                    0x06e1  А   CYRILLIC;   CAPITAL;LETTER;A
+Cyrillic_BE                   0x06e2  Б   CYRILLIC;   CAPITAL;LETTER;BE
+Cyrillic_TSE                  0x06e3  Ц   CYRILLIC;   CAPITAL;LETTER;TSE
+Cyrillic_DE                   0x06e4  Д   CYRILLIC;   CAPITAL;LETTER;DE
+Cyrillic_IE                   0x06e5  Е   CYRILLIC;   CAPITAL;LETTER;IE
+Cyrillic_EF                   0x06e6  Ф   CYRILLIC;   CAPITAL;LETTER;EF
+Cyrillic_GHE                  0x06e7  Г   CYRILLIC;   CAPITAL;LETTER;GHE
+Cyrillic_HA                   0x06e8  Х   CYRILLIC;   CAPITAL;LETTER;HA
+Cyrillic_I                    0x06e9  И   CYRILLIC;   CAPITAL;LETTER;I
+Cyrillic_SHORTI               0x06ea  Й   CYRILLIC;   CAPITAL;LETTER;SHORT;I
+Cyrillic_KA                   0x06eb  К   CYRILLIC;   CAPITAL;LETTER;KA
+Cyrillic_EL                   0x06ec  Л   CYRILLIC;   CAPITAL;LETTER;EL
+Cyrillic_EM                   0x06ed  М   CYRILLIC;   CAPITAL;LETTER;EM
+Cyrillic_EN                   0x06ee  Н   CYRILLIC;   CAPITAL;LETTER;EN
+Cyrillic_O                    0x06ef  О   CYRILLIC;   CAPITAL;LETTER;O
+Cyrillic_PE                   0x06f0  П   CYRILLIC;   CAPITAL;LETTER;PE
+Cyrillic_YA                   0x06f1  Я   CYRILLIC;   CAPITAL;LETTER;YA
+Cyrillic_ER                   0x06f2  Р   CYRILLIC;   CAPITAL;LETTER;ER
+Cyrillic_ES                   0x06f3  С   CYRILLIC;   CAPITAL;LETTER;ES
+Cyrillic_TE                   0x06f4  Т   CYRILLIC;   CAPITAL;LETTER;TE
+Cyrillic_U                    0x06f5  У   CYRILLIC;   CAPITAL;LETTER;U
+Cyrillic_ZHE                  0x06f6  Ж   CYRILLIC;   CAPITAL;LETTER;ZHE
+Cyrillic_VE                   0x06f7  В   CYRILLIC;   CAPITAL;LETTER;VE
+Cyrillic_SOFTSIGN             0x06f8  Ь   CYRILLIC;   CAPITAL;LETTER;SOFT;SIGN
+Cyrillic_YERU                 0x06f9  Ы   CYRILLIC;   CAPITAL;LETTER;YERU
+Cyrillic_ZE                   0x06fa  З   CYRILLIC;   CAPITAL;LETTER;ZE
+Cyrillic_SHA                  0x06fb  Ш   CYRILLIC;   CAPITAL;LETTER;SHA
+Cyrillic_E                    0x06fc  Э   CYRILLIC;   CAPITAL;LETTER;E
+Cyrillic_SHCHA                0x06fd  Щ   CYRILLIC;   CAPITAL;LETTER;SHCHA
+Cyrillic_CHE                  0x06fe  Ч   CYRILLIC;   CAPITAL;LETTER;CHE
+Cyrillic_HARDSIGN             0x06ff  Ъ   CYRILLIC;   CAPITAL;LETTER;HARD;   SIGN
+Greek_ALPHAaccent             0x07a1  Ά   GREEK;CAPITAL;LETTER;ALPHA;   WITH;TONOS
+Greek_EPSILONaccent           0x07a2  Έ   GREEK;CAPITAL;LETTER;EPSILON;WITH;TONOS
+Greek_ETAaccent               0x07a3  Ή   GREEK;CAPITAL;LETTER;ETA;   WITH;TONOS
+Greek_IOTAaccent              0x07a4  Ί   GREEK;CAPITAL;LETTER;IOTA;   WITH;TONOS
+Greek_IOTAdieresis            0x07a5  Ϊ   GREEK;CAPITAL;LETTER;IOTA;   WITH;DIALYTIKA
+Greek_OMICRONaccent           0x07a7  Ό   GREEK;CAPITAL;LETTER;OMICRON;WITH;TONOS
+Greek_UPSILONaccent           0x07a8  Ύ   GREEK;CAPITAL;LETTER;UPSILON;WITH;TONOS
+Greek_UPSILONdieresis         0x07a9  Ϋ   GREEK;CAPITAL;LETTER;UPSILON;WITH;DIALYTIKA
+Greek_OMEGAaccent             0x07ab  Ώ   GREEK;CAPITAL;LETTER;OMEGA;   WITH;TONOS
+Greek_accentdieresis          0x07ae  ΅   GREEK;DIALYTIKA;   TONOS
+Greek_horizbar                0x07af  ―   HORIZONTAL;BAR
+Greek_alphaaccent             0x07b1  ά   GREEK;SMALL;LETTER;ALPHA;   WITH;TONOS
+Greek_epsilonaccent           0x07b2  έ   GREEK;SMALL;LETTER;EPSILON;WITH;TONOS
+Greek_etaaccent               0x07b3  ή   GREEK;SMALL;LETTER;ETA;   WITH;TONOS
+Greek_iotaaccent              0x07b4  ί   GREEK;SMALL;LETTER;IOTA;   WITH;TONOS
+Greek_iotadieresis            0x07b5  ϊ   GREEK;SMALL;LETTER;IOTA;   WITH;DIALYTIKA
+Greek_iotaaccentdieresis      0x07b6  ΐ   GREEK;SMALL;LETTER;IOTA;   WITH;DIALYTIKA;   AND;   TONOS
+Greek_omicronaccent           0x07b7  ό   GREEK;SMALL;LETTER;OMICRON;WITH;TONOS
+Greek_upsilonaccent           0x07b8  ύ   GREEK;SMALL;LETTER;UPSILON;WITH;TONOS
+Greek_upsilondieresis         0x07b9  ϋ   GREEK;SMALL;LETTER;UPSILON;WITH;DIALYTIKA
+Greek_upsilonaccentdieresis   0x07ba  ΰ   GREEK;SMALL;LETTER;UPSILON;WITH;DIALYTIKA;   AND;   TONOS
+Greek_omegaaccent             0x07bb  ώ   GREEK;SMALL;LETTER;OMEGA;   WITH;TONOS
+Greek_ALPHA                   0x07c1  Α   GREEK;CAPITAL;LETTER;ALPHA
+Greek_BETA                    0x07c2  Β   GREEK;CAPITAL;LETTER;BETA
+Greek_GAMMA                   0x07c3  Γ   GREEK;CAPITAL;LETTER;GAMMA
+Greek_DELTA                   0x07c4  Δ   GREEK;CAPITAL;LETTER;DELTA
+Greek_EPSILON                 0x07c5  Ε   GREEK;CAPITAL;LETTER;EPSILON
+Greek_ZETA                    0x07c6  Ζ   GREEK;CAPITAL;LETTER;ZETA
+Greek_ETA                     0x07c7  Η   GREEK;CAPITAL;LETTER;ETA
+Greek_THETA                   0x07c8  Θ   GREEK;CAPITAL;LETTER;THETA
+Greek_IOTA                    0x07c9  Ι   GREEK;CAPITAL;LETTER;IOTA
+Greek_KAPPA                   0x07ca  Κ   GREEK;CAPITAL;LETTER;KAPPA
+Greek_LAMDA                   0x07cb  Λ   GREEK;CAPITAL;LETTER;LAMDA
+Greek_LAMBDA                  0x07cb  Λ   GREEK;CAPITAL;LETTER;LAMDA
+Greek_MU                      0x07cc  Μ   GREEK;CAPITAL;LETTER;MU
+Greek_NU                      0x07cd  Ν   GREEK;CAPITAL;LETTER;NU
+Greek_XI                      0x07ce  Ξ   GREEK;CAPITAL;LETTER;XI
+Greek_OMICRON                 0x07cf  Ο   GREEK;CAPITAL;LETTER;OMICRON
+Greek_PI                      0x07d0  Π   GREEK;CAPITAL;LETTER;PI
+Greek_RHO                     0x07d1  Ρ   GREEK;CAPITAL;LETTER;RHO
+Greek_SIGMA                   0x07d2  Σ   GREEK;CAPITAL;LETTER;SIGMA
+Greek_TAU                     0x07d4  Τ   GREEK;CAPITAL;LETTER;TAU
+Greek_UPSILON                 0x07d5  Υ   GREEK;CAPITAL;LETTER;UPSILON
+Greek_PHI                     0x07d6  Φ   GREEK;CAPITAL;LETTER;PHI
+Greek_CHI                     0x07d7  Χ   GREEK;CAPITAL;LETTER;CHI
+Greek_PSI                     0x07d8  Ψ   GREEK;CAPITAL;LETTER;PSI
+Greek_OMEGA                   0x07d9  Ω   GREEK;CAPITAL;LETTER;OMEGA
+Greek_alpha                   0x07e1  α   GREEK;SMALL;LETTER;ALPHA
+Greek_beta                    0x07e2  β   GREEK;SMALL;LETTER;BETA
+Greek_gamma                   0x07e3  γ   GREEK;SMALL;LETTER;GAMMA
+Greek_delta                   0x07e4  δ   GREEK;SMALL;LETTER;DELTA
+Greek_epsilon                 0x07e5  ε   GREEK;SMALL;LETTER;EPSILON
+Greek_zeta                    0x07e6  ζ   GREEK;SMALL;LETTER;ZETA
+Greek_eta                     0x07e7  η   GREEK;SMALL;LETTER;ETA
+Greek_theta                   0x07e8  θ   GREEK;SMALL;LETTER;THETA
+Greek_iota                    0x07e9  ι   GREEK;SMALL;LETTER;IOTA
+Greek_kappa                   0x07ea  κ   GREEK;SMALL;LETTER;KAPPA
+Greek_lamda                   0x07eb  λ   GREEK;SMALL;LETTER;LAMDA
+Greek_lambda                  0x07eb  λ   GREEK;SMALL;LETTER;LAMDA
+Greek_mu                      0x07ec  μ   GREEK;SMALL;LETTER;MU
+Greek_nu                      0x07ed  ν   GREEK;SMALL;LETTER;NU
+Greek_xi                      0x07ee  ξ   GREEK;SMALL;LETTER;XI
+Greek_omicron                 0x07ef  ο   GREEK;SMALL;LETTER;OMICRON
+Greek_pi                      0x07f0  π   GREEK;SMALL;LETTER;PI
+Greek_rho                     0x07f1  ρ   GREEK;SMALL;LETTER;RHO
+Greek_sigma                   0x07f2  σ   GREEK;SMALL;LETTER;SIGMA
+Greek_finalsmallsigma         0x07f3  ς   GREEK;SMALL;LETTER;FINAL;SIGMA
+Greek_tau                     0x07f4  τ   GREEK;SMALL;LETTER;TAU
+Greek_upsilon                 0x07f5  υ   GREEK;SMALL;LETTER;UPSILON
+Greek_phi                     0x07f6  φ   GREEK;SMALL;LETTER;PHI
+Greek_chi                     0x07f7  χ   GREEK;SMALL;LETTER;CHI
+Greek_psi                     0x07f8  ψ   GREEK;SMALL;LETTER;PSI
+Greek_omega                   0x07f9  ω   GREEK;SMALL;LETTER;OMEGA
+leftradical                   0x08a1  ⎷   RADICAL;SYMBOL;BOTTOM
+topleftradical                0x08a2  ┌   BOX;DRAWINGS;LIGHT;DOWN;AND;   RIGHT
+horizconnector                0x08a3  ─   BOX;DRAWINGS;LIGHT;HORIZONTAL
+topintegral                   0x08a4  ⌠   TOP;HALF;   INTEGRAL
+botintegral                   0x08a5  ⌡   BOTTOM;HALF;   INTEGRAL
+vertconnector                 0x08a6  │   BOX;DRAWINGS;LIGHT;VERTICAL
+topleftsqbracket              0x08a7  ⎡   LEFT;SQUARE;   BRACKET;UPPER;CORNER
+botleftsqbracket              0x08a8  ⎣   LEFT;SQUARE;   BRACKET;LOWER;CORNER
+toprightsqbracket             0x08a9  ⎤   RIGHT;SQUARE;   BRACKET;UPPER;CORNER
+botrightsqbracket             0x08aa  ⎦   RIGHT;SQUARE;   BRACKET;LOWER;CORNER
+topleftparens                 0x08ab  ⎛   LEFT;PARENTHESIS;UPPER;HOOK
+botleftparens                 0x08ac  ⎝   LEFT;PARENTHESIS;LOWER;HOOK
+toprightparens                0x08ad  ⎞   RIGHT;PARENTHESIS;UPPER;HOOK
+botrightparens                0x08ae  ⎠   RIGHT;PARENTHESIS;LOWER;HOOK
+leftmiddlecurlybrace          0x08af  ⎨   LEFT;CURLY;BRACKET;MIDDLE;   PIECE
+rightmiddlecurlybrace         0x08b0  ⎬   RIGHT;CURLY;BRACKET;MIDDLE;   PIECE
+lessthanequal                 0x08bc  ≤   LESS-THAN;OR;EQUAL;TO
+notequal                      0x08bd  ≠   NOT;EQUAL;TO
+greaterthanequal              0x08be  ≥   GREATER-THAN;OR;EQUAL;TO
+integral                      0x08bf  ∫   INTEGRAL
+therefore                     0x08c0  ∴   THEREFORE
+variation                     0x08c1  ∝   PROPORTIONAL;TO
+infinity                      0x08c2  ∞   INFINITY
+nabla                         0x08c5  ∇   NABLA
+approximate                   0x08c8  ∼   TILDE;   OPERATOR
+similarequal                  0x08c9  ≃   ASYMPTOTICALLY;EQUAL;TO
+ifonlyif                      0x08cd  ⇔   LEFT;RIGHT;DOUBLE;   ARROW
+implies                       0x08ce  ⇒   RIGHTWARDS;DOUBLE;   ARROW
+identical                     0x08cf  ≡   IDENTICAL;TO
+radical                       0x08d6  √   SQUARE;   ROOT
+includedin                    0x08da  ⊂   SUBSET;OF
+includes                      0x08db  ⊃   SUPERSET;OF
+intersection                  0x08dc  ∩   INTERSECTION
+union                         0x08dd  ∪   UNION
+logicaland                    0x08de  ∧   LOGICAL;AND
+logicalor                     0x08df  ∨   LOGICAL;OR
+partialderivative             0x08ef  ∂   PARTIAL;DIFFERENTIAL
+function                      0x08f6  ƒ   LATIN;SMALL;LETTER;F;   WITH;HOOK
+leftarrow                     0x08fb  ←   LEFTWARDS;ARROW
+uparrow                       0x08fc  ↑   UPWARDS;ARROW
+rightarrow                    0x08fd  →   RIGHTWARDS;ARROW
+downarrow                     0x08fe  ↓   DOWNWARDS;ARROW
+soliddiamond                  0x09e0  ◆   BLACK;DIAMOND
+checkerboard                  0x09e1  ▒   MEDIUM;SHADE
+ht                            0x09e2  ␉   SYMBOL;FOR;HORIZONTAL;TABULATION
+ff                            0x09e3  ␌   SYMBOL;FOR;FORM;FEED
+cr                            0x09e4  ␍   SYMBOL;FOR;CARRIAGE;   RETURN
+lf                            0x09e5  ␊   SYMBOL;FOR;LINE;   FEED
+nl                            0x09e8  ␤   SYMBOL;FOR;NEWLINE
+vt                            0x09e9  ␋   SYMBOL;FOR;VERTICAL;TABULATION
+lowrightcorner                0x09ea  ┘   BOX;DRAWINGS;LIGHT;UP;AND;   LEFT
+uprightcorner                 0x09eb  ┐   BOX;DRAWINGS;LIGHT;DOWN;AND;   LEFT
+upleftcorner                  0x09ec  ┌   BOX;DRAWINGS;LIGHT;DOWN;AND;   RIGHT
+lowleftcorner                 0x09ed  └   BOX;DRAWINGS;LIGHT;UP;AND;   RIGHT
+crossinglines                 0x09ee  ┼   BOX;DRAWINGS;LIGHT;VERTICAL;AND;   HORIZONTAL
+horizlinescan1                0x09ef  ⎺   HORIZONTAL;SCAN;LINE-1
+horizlinescan3                0x09f0  ⎻   HORIZONTAL;SCAN;LINE-3
+horizlinescan5                0x09f1  ─   BOX;DRAWINGS;LIGHT;HORIZONTAL
+horizlinescan7                0x09f2  ⎼   HORIZONTAL;SCAN;LINE-7
+horizlinescan9                0x09f3  ⎽   HORIZONTAL;SCAN;LINE-9
+leftt                         0x09f4  ├   BOX;DRAWINGS;LIGHT;VERTICAL;AND;   RIGHT
+rightt                        0x09f5  ┤   BOX;DRAWINGS;LIGHT;VERTICAL;AND;   LEFT
+bott                          0x09f6  ┴   BOX;DRAWINGS;LIGHT;UP;AND;   HORIZONTAL
+topt                          0x09f7  ┬   BOX;DRAWINGS;LIGHT;DOWN;AND;   HORIZONTAL
+vertbar                       0x09f8  │   BOX;DRAWINGS;LIGHT;VERTICAL
+emspace                       0x0aa1      EM;SPACE
+enspace                       0x0aa2      EN;SPACE
+em3space                      0x0aa3      THREE-PER-EM;SPACE
+em4space                      0x0aa4      FOUR-PER-EM;SPACE
+digitspace                    0x0aa5      FIGURE;   SPACE
+punctspace                    0x0aa6      PUNCTUATION;SPACE
+thinspace                     0x0aa7      THIN;SPACE
+hairspace                     0x0aa8      HAIR;SPACE
+emdash                        0x0aa9  —   EM;DASH
+endash                        0x0aaa  –   EN;DASH
+signifblank                   0x0aac  ␣   OPEN;BOX
+ellipsis                      0x0aae  …   HORIZONTAL;ELLIPSIS
+doubbaselinedot               0x0aaf  ‥   TWO;DOT;LEADER
+onethird                      0x0ab0  ⅓   VULGAR;FRACTION;ONE;   THIRD
+twothirds                     0x0ab1  ⅔   VULGAR;FRACTION;TWO;THIRDS
+onefifth                      0x0ab2  ⅕   VULGAR;FRACTION;ONE;   FIFTH
+twofifths                     0x0ab3  ⅖   VULGAR;FRACTION;TWO;FIFTHS
+threefifths                   0x0ab4  ⅗   VULGAR;FRACTION;THREE;   FIFTHS
+fourfifths                    0x0ab5  ⅘   VULGAR;FRACTION;FOUR;FIFTHS
+onesixth                      0x0ab6  ⅙   VULGAR;FRACTION;ONE;   SIXTH
+fivesixths                    0x0ab7  ⅚   VULGAR;FRACTION;FIVE;   SIXTHS
+careof                        0x0ab8  ℅   CARE;   OF
+figdash                       0x0abb  ‒   FIGURE;   DASH
+leftanglebracket              0x0abc  ⟨   MATHEMATICAL;LEFT;ANGLE;   BRACKET
+decimalpoint                  0x0abd  .   FULL;STOP
+rightanglebracket             0x0abe  ⟩   MATHEMATICAL;RIGHT;ANGLE;   BRACKET
+oneeighth                     0x0ac3  ⅛   VULGAR;FRACTION;ONE;   EIGHTH
+threeeighths                  0x0ac4  ⅜   VULGAR;FRACTION;THREE;   EIGHTHS
+fiveeighths                   0x0ac5  ⅝   VULGAR;FRACTION;FIVE;   EIGHTHS
+seveneighths                  0x0ac6  ⅞   VULGAR;FRACTION;SEVEN;EIGHTHS
+trademark                     0x0ac9  ™   TRADE;   MARK;SIGN
+signaturemark                 0x0aca  ☓   SALTIRE
+leftopentriangle              0x0acc  ◁   WHITE;   LEFT-POINTING;TRIANGLE
+rightopentriangle             0x0acd  ▷   WHITE;   RIGHT-POINTING;TRIANGLE
+emopencircle                  0x0ace  ○   WHITE;   CIRCLE
+emopenrectangle               0x0acf  ▯   WHITE;   VERTICAL;RECTANGLE
+leftsinglequotemark           0x0ad0  ‘   LEFT;SINGLE;   QUOTATION;MARK
+rightsinglequotemark          0x0ad1  ’   RIGHT;SINGLE;   QUOTATION;MARK
+leftdoublequotemark           0x0ad2  “   LEFT;DOUBLE;   QUOTATION;MARK
+rightdoublequotemark          0x0ad3  ”   RIGHT;DOUBLE;   QUOTATION;MARK
+prescription                  0x0ad4  ℞   PRESCRIPTION;TAKE
+minutes                       0x0ad6  ′   PRIME
+seconds                       0x0ad7  ″   DOUBLE;   PRIME
+latincross                    0x0ad9  ✝   LATIN;CROSS
+filledrectbullet              0x0adb  ▬   BLACK;RECTANGLE
+filledlefttribullet           0x0adc  ◀   BLACK;LEFT-POINTING;TRIANGLE
+filledrighttribullet          0x0add  ▶   BLACK;RIGHT-POINTING;TRIANGLE
+emfilledcircle                0x0ade  ●   BLACK;CIRCLE
+emfilledrect                  0x0adf  ▮   BLACK;VERTICAL;RECTANGLE
+enopencircbullet              0x0ae0  ◦   WHITE;   BULLET
+enopensquarebullet            0x0ae1  ▫   WHITE;   SMALL;SQUARE
+openrectbullet                0x0ae2  ▭   WHITE;   RECTANGLE
+opentribulletup               0x0ae3  △   WHITE;   UP-POINTING;TRIANGLE
+opentribulletdown             0x0ae4  ▽   WHITE;   DOWN-POINTING;TRIANGLE
+openstar                      0x0ae5  ☆   WHITE;   STAR
+enfilledcircbullet            0x0ae6  •   BULLET
+enfilledsqbullet              0x0ae7  ▪   BLACK;SMALL;SQUARE
+filledtribulletup             0x0ae8  ▲   BLACK;UP-POINTING;TRIANGLE
+filledtribulletdown           0x0ae9  ▼   BLACK;DOWN-POINTING;TRIANGLE
+leftpointer                   0x0aea  ☜   WHITE;   LEFT;POINTING;INDEX
+rightpointer                  0x0aeb  ☞   WHITE;   RIGHT;POINTING;INDEX
+club                          0x0aec  ♣   BLACK;CLUB;   SUIT
+diamond                       0x0aed  ♦   BLACK;DIAMOND;   SUIT
+heart                         0x0aee  ♥   BLACK;HEART;SUIT
+maltesecross                  0x0af0  ✠   MALTESE;   CROSS
+dagger                        0x0af1  †   DAGGER
+doubledagger                  0x0af2  ‡   DOUBLE;   DAGGER
+checkmark                     0x0af3  ✓   CHECK;MARK
+ballotcross                   0x0af4  ✗   BALLOT;X
+musicalsharp                  0x0af5  ♯   MUSIC;   SHARP;SIGN
+musicalflat                   0x0af6  ♭   MUSIC;   FLAT;SIGN
+malesymbol                    0x0af7  ♂   MALE;   SIGN
+femalesymbol                  0x0af8  ♀   FEMALE;   SIGN
+telephone                     0x0af9  ☎   BLACK;TELEPHONE
+telephonerecorder             0x0afa  ⌕   TELEPHONE;   RECORDER
+phonographcopyright           0x0afb  ℗   SOUND;   RECORDING;COPYRIGHT
+caret                         0x0afc  ‸   CARET
+singlelowquotemark            0x0afd  ‚   SINGLE;   LOW-9;   QUOTATION;MARK
+doublelowquotemark            0x0afe  „   DOUBLE;   LOW-9;   QUOTATION;MARK
+leftcaret                     0x0ba3  <   LESS-THAN;SIGN
+rightcaret                    0x0ba6  >   GREATER-THAN;SIGN
+downcaret                     0x0ba8  ∨   LOGICAL;OR
+upcaret                       0x0ba9  ∧   LOGICAL;AND
+overbar                       0x0bc0  ¯   MACRON
+downtack                      0x0bc2  ⊥   UP;TACK
+upshoe                        0x0bc3  ∩   INTERSECTION
+downstile                     0x0bc4  ⌊   LEFT;FLOOR
+underbar                      0x0bc6  _   LOW;LINE
+jot                           0x0bca  ∘   RING;OPERATOR
+quad                          0x0bcc  ⎕   APL;FUNCTIONAL;SYMBOL;QUAD
+uptack                        0x0bce  ⊤   DOWN;TACK
+circle                        0x0bcf  ○   WHITE;   CIRCLE
+upstile                       0x0bd3  ⌈   LEFT;CEILING
+downshoe                      0x0bd6  ∪   UNION
+rightshoe                     0x0bd8  ⊃   SUPERSET;OF
+leftshoe                      0x0bda  ⊂   SUBSET;OF
+lefttack                      0x0bdc  ⊢   RIGHT;TACK
+righttack                     0x0bfc  ⊣   LEFT;TACK
+hebrew_doublelowline          0x0cdf  ‗   DOUBLE;   LOW;LINE
+hebrew_aleph                  0x0ce0  א   HEBREW;LETTER;ALEF
+hebrew_bet                    0x0ce1  ב   HEBREW;LETTER;BET
+hebrew_gimel                  0x0ce2  ג   HEBREW;LETTER;GIMEL
+hebrew_dalet                  0x0ce3  ד   HEBREW;LETTER;DALET
+hebrew_he                     0x0ce4  ה   HEBREW;LETTER;HE
+hebrew_waw                    0x0ce5  ו   HEBREW;LETTER;VAV
+hebrew_zain                   0x0ce6  ז   HEBREW;LETTER;ZAYIN
+hebrew_chet                   0x0ce7  ח   HEBREW;LETTER;HET
+hebrew_tet                    0x0ce8  ט   HEBREW;LETTER;TET
+hebrew_yod                    0x0ce9  י   HEBREW;LETTER;YOD
+hebrew_finalkaph              0x0cea  ך   HEBREW;LETTER;FINAL;KAF
+hebrew_kaph                   0x0ceb  כ   HEBREW;LETTER;KAF
+hebrew_lamed                  0x0cec  ל   HEBREW;LETTER;LAMED
+hebrew_finalmem               0x0ced  ם   HEBREW;LETTER;FINAL;MEM
+hebrew_mem                    0x0cee  מ   HEBREW;LETTER;MEM
+hebrew_finalnun               0x0cef  ן   HEBREW;LETTER;FINAL;NUN
+hebrew_nun                    0x0cf0  נ   HEBREW;LETTER;NUN
+hebrew_samech                 0x0cf1  ס   HEBREW;LETTER;SAMEKH
+hebrew_ayin                   0x0cf2  ע   HEBREW;LETTER;AYIN
+hebrew_finalpe                0x0cf3  ף   HEBREW;LETTER;FINAL;PE
+hebrew_pe                     0x0cf4  פ   HEBREW;LETTER;PE
+hebrew_finalzade              0x0cf5  ץ   HEBREW;LETTER;FINAL;TSADI
+hebrew_zade                   0x0cf6  צ   HEBREW;LETTER;TSADI
+hebrew_qoph                   0x0cf7  ק   HEBREW;LETTER;QOF
+hebrew_resh                   0x0cf8  ר   HEBREW;LETTER;RESH
+hebrew_shin                   0x0cf9  ש   HEBREW;LETTER;SHIN
+hebrew_taw                    0x0cfa  ת   HEBREW;LETTER;TAV
+Thai_kokai                    0x0da1  ก   THAI;CHARACTER;KO;KAI
+Thai_khokhai                  0x0da2  ข   THAI;CHARACTER;KHO;KHAI
+Thai_khokhuat                 0x0da3  ฃ   THAI;CHARACTER;KHO;KHUAT
+Thai_khokhwai                 0x0da4  ค   THAI;CHARACTER;KHO;KHWAI
+Thai_khokhon                  0x0da5  ฅ   THAI;CHARACTER;KHO;KHON
+Thai_khorakhang               0x0da6  ฆ   THAI;CHARACTER;KHO;RAKHANG
+Thai_ngongu                   0x0da7  ง   THAI;CHARACTER;NGO;NGU
+Thai_chochan                  0x0da8  จ   THAI;CHARACTER;CHO;CHAN
+Thai_choching                 0x0da9  ฉ   THAI;CHARACTER;CHO;CHING
+Thai_chochang                 0x0daa  ช   THAI;CHARACTER;CHO;CHANG
+Thai_soso                     0x0dab  ซ   THAI;CHARACTER;SO;SO
+Thai_chochoe                  0x0dac  ฌ   THAI;CHARACTER;CHO;CHOE
+Thai_yoying                   0x0dad  ญ   THAI;CHARACTER;YO;YING
+Thai_dochada                  0x0dae  ฎ   THAI;CHARACTER;DO;CHADA
+Thai_topatak                  0x0daf  ฏ   THAI;CHARACTER;TO;PATAK
+Thai_thothan                  0x0db0  ฐ   THAI;CHARACTER;THO;THAN
+Thai_thonangmontho            0x0db1  ฑ   THAI;CHARACTER;THO;NANGMONTHO
+Thai_thophuthao               0x0db2  ฒ   THAI;CHARACTER;THO;PHUTHAO
+Thai_nonen                    0x0db3  ณ   THAI;CHARACTER;NO;NEN
+Thai_dodek                    0x0db4  ด   THAI;CHARACTER;DO;DEK
+Thai_totao                    0x0db5  ต   THAI;CHARACTER;TO;TAO
+Thai_thothung                 0x0db6  ถ   THAI;CHARACTER;THO;THUNG
+Thai_thothahan                0x0db7  ท   THAI;CHARACTER;THO;THAHAN
+Thai_thothong                 0x0db8  ธ   THAI;CHARACTER;THO;THONG
+Thai_nonu                     0x0db9  น   THAI;CHARACTER;NO;NU
+Thai_bobaimai                 0x0dba  บ   THAI;CHARACTER;BO;BAIMAI
+Thai_popla                    0x0dbb  ป   THAI;CHARACTER;PO;PLA
+Thai_phophung                 0x0dbc  ผ   THAI;CHARACTER;PHO;PHUNG
+Thai_fofa                     0x0dbd  ฝ   THAI;CHARACTER;FO;FA
+Thai_phophan                  0x0dbe  พ   THAI;CHARACTER;PHO;PHAN
+Thai_fofan                    0x0dbf  ฟ   THAI;CHARACTER;FO;FAN
+Thai_phosamphao               0x0dc0  ภ   THAI;CHARACTER;PHO;SAMPHAO
+Thai_moma                     0x0dc1  ม   THAI;CHARACTER;MO;MA
+Thai_yoyak                    0x0dc2  ย   THAI;CHARACTER;YO;YAK
+Thai_rorua                    0x0dc3  ร   THAI;CHARACTER;RO;RUA
+Thai_ru                       0x0dc4  ฤ   THAI;CHARACTER;RU
+Thai_loling                   0x0dc5  ล   THAI;CHARACTER;LO;LING
+Thai_lu                       0x0dc6  ฦ   THAI;CHARACTER;LU
+Thai_wowaen                   0x0dc7  ว   THAI;CHARACTER;WO;WAEN
+Thai_sosala                   0x0dc8  ศ   THAI;CHARACTER;SO;SALA
+Thai_sorusi                   0x0dc9  ษ   THAI;CHARACTER;SO;RUSI
+Thai_sosua                    0x0dca  ส   THAI;CHARACTER;SO;SUA
+Thai_hohip                    0x0dcb  ห   THAI;CHARACTER;HO;HIP
+Thai_lochula                  0x0dcc  ฬ   THAI;CHARACTER;LO;CHULA
+Thai_oang                     0x0dcd  อ   THAI;CHARACTER;O;ANG
+Thai_honokhuk                 0x0dce  ฮ   THAI;CHARACTER;HO;NOKHUK
+Thai_paiyannoi                0x0dcf  ฯ   THAI;CHARACTER;PAIYANNOI
+Thai_saraa                    0x0dd0  ะ   THAI;CHARACTER;SARA;   A
+Thai_maihanakat               0x0dd1  ั   THAI;CHARACTER;MAI;HAN-AKAT
+Thai_saraaa                   0x0dd2  า   THAI;CHARACTER;SARA;   AA
+Thai_saraam                   0x0dd3  ำ   THAI;CHARACTER;SARA;   AM
+Thai_sarai                    0x0dd4  ิ   THAI;CHARACTER;SARA;   I
+Thai_saraii                   0x0dd5  ี   THAI;CHARACTER;SARA;   II
+Thai_saraue                   0x0dd6  ึ   THAI;CHARACTER;SARA;   UE
+Thai_sarauee                  0x0dd7  ื   THAI;CHARACTER;SARA;   UEE
+Thai_sarau                    0x0dd8  ุ   THAI;CHARACTER;SARA;   U
+Thai_sarauu                   0x0dd9  ู   THAI;CHARACTER;SARA;   UU
+Thai_phinthu                  0x0dda  ฺ   THAI;CHARACTER;PHINTHU
+Thai_baht                     0x0ddf  ฿   THAI;CURRENCY;SYMBOL;BAHT
+Thai_sarae                    0x0de0  เ   THAI;CHARACTER;SARA;   E
+Thai_saraae                   0x0de1  แ   THAI;CHARACTER;SARA;   AE
+Thai_sarao                    0x0de2  โ   THAI;CHARACTER;SARA;   O
+Thai_saraaimaimuan            0x0de3  ใ   THAI;CHARACTER;SARA;   AI;MAIMUAN
+Thai_saraaimaimalai           0x0de4  ไ   THAI;CHARACTER;SARA;   AI;MAIMALAI
+Thai_lakkhangyao              0x0de5  ๅ   THAI;CHARACTER;LAKKHANGYAO
+Thai_maiyamok                 0x0de6  ๆ   THAI;CHARACTER;MAIYAMOK
+Thai_maitaikhu                0x0de7  ็   THAI;CHARACTER;MAITAIKHU
+Thai_maiek                    0x0de8  ่   THAI;CHARACTER;MAI;EK
+Thai_maitho                   0x0de9  ้   THAI;CHARACTER;MAI;THO
+Thai_maitri                   0x0dea  ๊   THAI;CHARACTER;MAI;TRI
+Thai_maichattawa              0x0deb  ๋   THAI;CHARACTER;MAI;CHATTAWA
+Thai_thanthakhat              0x0dec  ์   THAI;CHARACTER;THANTHAKHAT
+Thai_nikhahit                 0x0ded  ํ   THAI;CHARACTER;NIKHAHIT
+Thai_leksun                   0x0df0  ๐   THAI;DIGIT;ZERO
+Thai_leknung                  0x0df1  ๑   THAI;DIGIT;ONE
+Thai_leksong                  0x0df2  ๒   THAI;DIGIT;TWO
+Thai_leksam                   0x0df3  ๓   THAI;DIGIT;THREE
+Thai_leksi                    0x0df4  ๔   THAI;DIGIT;FOUR
+Thai_lekha                    0x0df5  ๕   THAI;DIGIT;FIVE
+Thai_lekhok                   0x0df6  ๖   THAI;DIGIT;SIX
+Thai_lekchet                  0x0df7  ๗   THAI;DIGIT;SEVEN
+Thai_lekpaet                  0x0df8  ๘   THAI;DIGIT;EIGHT
+Thai_lekkao                   0x0df9  ๙   THAI;DIGIT;NINE
+Korean_Won                    0x0eff  ₩   WON;SIGN
+Armenian_ligature_ew       0x1000587  և   ARMENIAN;SMALL;LIGATURE;   ECH;YIWN
+Armenian_full_stop         0x1000589  ։   ARMENIAN;FULL;STOP
+Armenian_verjaket          0x1000589  ։   ARMENIAN;FULL;STOP
+Armenian_separation_mark   0x100055d  ՝   ARMENIAN;COMMA
+Armenian_but               0x100055d  ՝   ARMENIAN;COMMA
+Armenian_hyphen            0x100058a  ֊   ARMENIAN;HYPHEN
+Armenian_yentamna          0x100058a  ֊   ARMENIAN;HYPHEN
+Armenian_exclam            0x100055c  ՜   ARMENIAN;EXCLAMATION;MARK
+Armenian_amanak            0x100055c  ՜   ARMENIAN;EXCLAMATION;MARK
+Armenian_accent            0x100055b  ՛   ARMENIAN;EMPHASIS;MARK
+Armenian_shesht            0x100055b  ՛   ARMENIAN;EMPHASIS;MARK
+Armenian_question          0x100055e  ՞   ARMENIAN;QUESTION;MARK
+Armenian_paruyk            0x100055e  ՞   ARMENIAN;QUESTION;MARK
+Armenian_AYB               0x1000531  Ա   ARMENIAN;CAPITAL;LETTER;AYB
+Armenian_ayb               0x1000561  ա   ARMENIAN;SMALL;LETTER;AYB
+Armenian_BEN               0x1000532  Բ   ARMENIAN;CAPITAL;LETTER;BEN
+Armenian_ben               0x1000562  բ   ARMENIAN;SMALL;LETTER;BEN
+Armenian_GIM               0x1000533  Գ   ARMENIAN;CAPITAL;LETTER;GIM
+Armenian_gim               0x1000563  գ   ARMENIAN;SMALL;LETTER;GIM
+Armenian_DA                0x1000534  Դ   ARMENIAN;CAPITAL;LETTER;DA
+Armenian_da                0x1000564  դ   ARMENIAN;SMALL;LETTER;DA
+Armenian_YECH              0x1000535  Ե   ARMENIAN;CAPITAL;LETTER;ECH
+Armenian_yech              0x1000565  ե   ARMENIAN;SMALL;LETTER;ECH
+Armenian_ZA                0x1000536  Զ   ARMENIAN;CAPITAL;LETTER;ZA
+Armenian_za                0x1000566  զ   ARMENIAN;SMALL;LETTER;ZA
+Armenian_E                 0x1000537  Է   ARMENIAN;CAPITAL;LETTER;EH
+Armenian_e                 0x1000567  է   ARMENIAN;SMALL;LETTER;EH
+Armenian_AT                0x1000538  Ը   ARMENIAN;CAPITAL;LETTER;ET
+Armenian_at                0x1000568  ը   ARMENIAN;SMALL;LETTER;ET
+Armenian_TO                0x1000539  Թ   ARMENIAN;CAPITAL;LETTER;TO
+Armenian_to                0x1000569  թ   ARMENIAN;SMALL;LETTER;TO
+Armenian_ZHE               0x100053a  Ժ   ARMENIAN;CAPITAL;LETTER;ZHE
+Armenian_zhe               0x100056a  ժ   ARMENIAN;SMALL;LETTER;ZHE
+Armenian_INI               0x100053b  Ի   ARMENIAN;CAPITAL;LETTER;INI
+Armenian_ini               0x100056b  ի   ARMENIAN;SMALL;LETTER;INI
+Armenian_LYUN              0x100053c  Լ   ARMENIAN;CAPITAL;LETTER;LIWN
+Armenian_lyun              0x100056c  լ   ARMENIAN;SMALL;LETTER;LIWN
+Armenian_KHE               0x100053d  Խ   ARMENIAN;CAPITAL;LETTER;XEH
+Armenian_khe               0x100056d  խ   ARMENIAN;SMALL;LETTER;XEH
+Armenian_TSA               0x100053e  Ծ   ARMENIAN;CAPITAL;LETTER;CA
+Armenian_tsa               0x100056e  ծ   ARMENIAN;SMALL;LETTER;CA
+Armenian_KEN               0x100053f  Կ   ARMENIAN;CAPITAL;LETTER;KEN
+Armenian_ken               0x100056f  կ   ARMENIAN;SMALL;LETTER;KEN
+Armenian_HO                0x1000540  Հ   ARMENIAN;CAPITAL;LETTER;HO
+Armenian_ho                0x1000570  հ   ARMENIAN;SMALL;LETTER;HO
+Armenian_DZA               0x1000541  Ձ   ARMENIAN;CAPITAL;LETTER;JA
+Armenian_dza               0x1000571  ձ   ARMENIAN;SMALL;LETTER;JA
+Armenian_GHAT              0x1000542  Ղ   ARMENIAN;CAPITAL;LETTER;GHAD
+Armenian_ghat              0x1000572  ղ   ARMENIAN;SMALL;LETTER;GHAD
+Armenian_TCHE              0x1000543  Ճ   ARMENIAN;CAPITAL;LETTER;CHEH
+Armenian_tche              0x1000573  ճ   ARMENIAN;SMALL;LETTER;CHEH
+Armenian_MEN               0x1000544  Մ   ARMENIAN;CAPITAL;LETTER;MEN
+Armenian_men               0x1000574  մ   ARMENIAN;SMALL;LETTER;MEN
+Armenian_HI                0x1000545  Յ   ARMENIAN;CAPITAL;LETTER;YI
+Armenian_hi                0x1000575  յ   ARMENIAN;SMALL;LETTER;YI
+Armenian_NU                0x1000546  Ն   ARMENIAN;CAPITAL;LETTER;NOW
+Armenian_nu                0x1000576  ն   ARMENIAN;SMALL;LETTER;NOW
+Armenian_SHA               0x1000547  Շ   ARMENIAN;CAPITAL;LETTER;SHA
+Armenian_sha               0x1000577  շ   ARMENIAN;SMALL;LETTER;SHA
+Armenian_VO                0x1000548  Ո   ARMENIAN;CAPITAL;LETTER;VO
+Armenian_vo                0x1000578  ո   ARMENIAN;SMALL;LETTER;VO
+Armenian_CHA               0x1000549  Չ   ARMENIAN;CAPITAL;LETTER;CHA
+Armenian_cha               0x1000579  չ   ARMENIAN;SMALL;LETTER;CHA
+Armenian_PE                0x100054a  Պ   ARMENIAN;CAPITAL;LETTER;PEH
+Armenian_pe                0x100057a  պ   ARMENIAN;SMALL;LETTER;PEH
+Armenian_JE                0x100054b  Ջ   ARMENIAN;CAPITAL;LETTER;JHEH
+Armenian_je                0x100057b  ջ   ARMENIAN;SMALL;LETTER;JHEH
+Armenian_RA                0x100054c  Ռ   ARMENIAN;CAPITAL;LETTER;RA
+Armenian_ra                0x100057c  ռ   ARMENIAN;SMALL;LETTER;RA
+Armenian_SE                0x100054d  Ս   ARMENIAN;CAPITAL;LETTER;SEH
+Armenian_se                0x100057d  ս   ARMENIAN;SMALL;LETTER;SEH
+Armenian_VEV               0x100054e  Վ   ARMENIAN;CAPITAL;LETTER;VEW
+Armenian_vev               0x100057e  վ   ARMENIAN;SMALL;LETTER;VEW
+Armenian_TYUN              0x100054f  Տ   ARMENIAN;CAPITAL;LETTER;TIWN
+Armenian_tyun              0x100057f  տ   ARMENIAN;SMALL;LETTER;TIWN
+Armenian_RE                0x1000550  Ր   ARMENIAN;CAPITAL;LETTER;REH
+Armenian_re                0x1000580  ր   ARMENIAN;SMALL;LETTER;REH
+Armenian_TSO               0x1000551  Ց   ARMENIAN;CAPITAL;LETTER;CO
+Armenian_tso               0x1000581  ց   ARMENIAN;SMALL;LETTER;CO
+Armenian_VYUN              0x1000552  Ւ   ARMENIAN;CAPITAL;LETTER;YIWN
+Armenian_vyun              0x1000582  ւ   ARMENIAN;SMALL;LETTER;YIWN
+Armenian_PYUR              0x1000553  Փ   ARMENIAN;CAPITAL;LETTER;PIWR
+Armenian_pyur              0x1000583  փ   ARMENIAN;SMALL;LETTER;PIWR
+Armenian_KE                0x1000554  Ք   ARMENIAN;CAPITAL;LETTER;KEH
+Armenian_ke                0x1000584  ք   ARMENIAN;SMALL;LETTER;KEH
+Armenian_O                 0x1000555  Օ   ARMENIAN;CAPITAL;LETTER;OH
+Armenian_o                 0x1000585  օ   ARMENIAN;SMALL;LETTER;OH
+Armenian_FE                0x1000556  Ֆ   ARMENIAN;CAPITAL;LETTER;FEH
+Armenian_fe                0x1000586  ֆ   ARMENIAN;SMALL;LETTER;FEH
+Armenian_apostrophe        0x100055a  ՚   ARMENIAN;APOSTROPHE
+Georgian_an                0x10010d0  ა   GEORGIAN;LETTER;AN
+Georgian_ban               0x10010d1  ბ   GEORGIAN;LETTER;BAN
+Georgian_gan               0x10010d2  გ   GEORGIAN;LETTER;GAN
+Georgian_don               0x10010d3  დ   GEORGIAN;LETTER;DON
+Georgian_en                0x10010d4  ე   GEORGIAN;LETTER;EN
+Georgian_vin               0x10010d5  ვ   GEORGIAN;LETTER;VIN
+Georgian_zen               0x10010d6  ზ   GEORGIAN;LETTER;ZEN
+Georgian_tan               0x10010d7  თ   GEORGIAN;LETTER;TAN
+Georgian_in                0x10010d8  ი   GEORGIAN;LETTER;IN
+Georgian_kan               0x10010d9  კ   GEORGIAN;LETTER;KAN
+Georgian_las               0x10010da  ლ   GEORGIAN;LETTER;LAS
+Georgian_man               0x10010db  მ   GEORGIAN;LETTER;MAN
+Georgian_nar               0x10010dc  ნ   GEORGIAN;LETTER;NAR
+Georgian_on                0x10010dd  ო   GEORGIAN;LETTER;ON
+Georgian_par               0x10010de  პ   GEORGIAN;LETTER;PAR
+Georgian_zhar              0x10010df  ჟ   GEORGIAN;LETTER;ZHAR
+Georgian_rae               0x10010e0  რ   GEORGIAN;LETTER;RAE
+Georgian_san               0x10010e1  ს   GEORGIAN;LETTER;SAN
+Georgian_tar               0x10010e2  ტ   GEORGIAN;LETTER;TAR
+Georgian_un                0x10010e3  უ   GEORGIAN;LETTER;UN
+Georgian_phar              0x10010e4  ფ   GEORGIAN;LETTER;PHAR
+Georgian_khar              0x10010e5  ქ   GEORGIAN;LETTER;KHAR
+Georgian_ghan              0x10010e6  ღ   GEORGIAN;LETTER;GHAN
+Georgian_qar               0x10010e7  ყ   GEORGIAN;LETTER;QAR
+Georgian_shin              0x10010e8  შ   GEORGIAN;LETTER;SHIN
+Georgian_chin              0x10010e9  ჩ   GEORGIAN;LETTER;CHIN
+Georgian_can               0x10010ea  ც   GEORGIAN;LETTER;CAN
+Georgian_jil               0x10010eb  ძ   GEORGIAN;LETTER;JIL
+Georgian_cil               0x10010ec  წ   GEORGIAN;LETTER;CIL
+Georgian_char              0x10010ed  ჭ   GEORGIAN;LETTER;CHAR
+Georgian_xan               0x10010ee  ხ   GEORGIAN;LETTER;XAN
+Georgian_jhan              0x10010ef  ჯ   GEORGIAN;LETTER;JHAN
+Georgian_hae               0x10010f0  ჰ   GEORGIAN;LETTER;HAE
+Georgian_he                0x10010f1  ჱ   GEORGIAN;LETTER;HE
+Georgian_hie               0x10010f2  ჲ   GEORGIAN;LETTER;HIE
+Georgian_we                0x10010f3  ჳ   GEORGIAN;LETTER;WE
+Georgian_har               0x10010f4  ჴ   GEORGIAN;LETTER;HAR
+Georgian_hoe               0x10010f5  ჵ   GEORGIAN;LETTER;HOE
+Georgian_fi                0x10010f6  ჶ   GEORGIAN;LETTER;FI
+Xabovedot                  0x1001e8a  Ẋ   LATIN;CAPITAL;LETTER;X;WITH;DOT;ABOVE
+Ibreve                     0x100012c  Ĭ   LATIN;CAPITAL;LETTER;I;WITH;BREVE
+Zstroke                    0x10001b5  Ƶ   LATIN;CAPITAL;LETTER;Z;WITH;STROKE
+Gcaron                     0x10001e6  Ǧ   LATIN;CAPITAL;LETTER;G;WITH;CARON
+Ocaron                     0x10001d1  ǒ   LATIN;CAPITAL;LETTER;O;WITH;CARON
+Obarred                    0x100019f  Ɵ   LATIN;CAPITAL;LETTER;O;WITH;MIDDLE;   TILDE
+xabovedot                  0x1001e8b  ẋ   LATIN;SMALL;LETTER;X;WITH;DOT;ABOVE
+ibreve                     0x100012d  ĭ   LATIN;SMALL;LETTER;I;WITH;BREVE
+zstroke                    0x10001b6  ƶ   LATIN;SMALL;LETTER;Z;WITH;STROKE
+gcaron                     0x10001e7  ǧ   LATIN;SMALL;LETTER;G;WITH;CARON
+ocaron                     0x10001d2  ǒ   LATIN;SMALL;LETTER;O;WITH;CARON
+obarred                    0x1000275  ɵ   LATIN;SMALL;LETTER;BARRED;   O
+SCHWA                      0x100018f  Ə   LATIN;CAPITAL;LETTER;SCHWA
+schwa                      0x1000259  ə   LATIN;SMALL;LETTER;SCHWA
+Lbelowdot                  0x1001e36  Ḷ   LATIN;CAPITAL;LETTER;L;WITH;DOT;BELOW
+lbelowdot                  0x1001e37  ḷ   LATIN;SMALL;LETTER;L;WITH;DOT;BELOW
+Abelowdot                  0x1001ea0  Ạ   LATIN;CAPITAL;LETTER;A;   WITH;DOT;BELOW
+abelowdot                  0x1001ea1  ạ   LATIN;SMALL;LETTER;A;   WITH;DOT;BELOW
+Ahook                      0x1001ea2  Ả   LATIN;CAPITAL;LETTER;A;   WITH;HOOK;ABOVE
+ahook                      0x1001ea3  ả   LATIN;SMALL;LETTER;A;   WITH;HOOK;ABOVE
+Acircumflexacute           0x1001ea4  Ấ   LATIN;CAPITAL;LETTER;A;   WITH;CIRCUMFLEX;AND;   ACUTE
+acircumflexacute           0x1001ea5  ấ   LATIN;SMALL;LETTER;A;   WITH;CIRCUMFLEX;AND;   ACUTE
+Acircumflexgrave           0x1001ea6  Ầ   LATIN;CAPITAL;LETTER;A;   WITH;CIRCUMFLEX;AND;   GRAVE
+acircumflexgrave           0x1001ea7  ầ   LATIN;SMALL;LETTER;A;   WITH;CIRCUMFLEX;AND;   GRAVE
+Acircumflexhook            0x1001ea8  Ẩ   LATIN;CAPITAL;LETTER;A;   WITH;CIRCUMFLEX;AND;   HOOK;ABOVE
+acircumflexhook            0x1001ea9  ẩ   LATIN;SMALL;LETTER;A;   WITH;CIRCUMFLEX;AND;   HOOK;ABOVE
+Acircumflextilde           0x1001eaa  Ẫ   LATIN;CAPITAL;LETTER;A;   WITH;CIRCUMFLEX;AND;   TILDE
+acircumflextilde           0x1001eab  ẫ   LATIN;SMALL;LETTER;A;   WITH;CIRCUMFLEX;AND;   TILDE
+Acircumflexbelowdot        0x1001eac  Ậ   LATIN;CAPITAL;LETTER;A;   WITH;CIRCUMFLEX;AND;   DOT;BELOW
+acircumflexbelowdot        0x1001ead  ậ   LATIN;SMALL;LETTER;A;   WITH;CIRCUMFLEX;AND;   DOT;BELOW
+Abreveacute                0x1001eae  Ắ   LATIN;CAPITAL;LETTER;A;   WITH;BREVE;   AND;   ACUTE
+abreveacute                0x1001eaf  ắ   LATIN;SMALL;LETTER;A;   WITH;BREVE;   AND;   ACUTE
+Abrevegrave                0x1001eb0  Ằ   LATIN;CAPITAL;LETTER;A;   WITH;BREVE;   AND;   GRAVE
+abrevegrave                0x1001eb1  ằ   LATIN;SMALL;LETTER;A;   WITH;BREVE;   AND;   GRAVE
+Abrevehook                 0x1001eb2  Ẳ   LATIN;CAPITAL;LETTER;A;   WITH;BREVE;   AND;   HOOK;ABOVE
+abrevehook                 0x1001eb3  ẳ   LATIN;SMALL;LETTER;A;   WITH;BREVE;   AND;   HOOK;ABOVE
+Abrevetilde                0x1001eb4  Ẵ   LATIN;CAPITAL;LETTER;A;   WITH;BREVE;   AND;   TILDE
+abrevetilde                0x1001eb5  ẵ   LATIN;SMALL;LETTER;A;   WITH;BREVE;   AND;   TILDE
+Abrevebelowdot             0x1001eb6  Ặ   LATIN;CAPITAL;LETTER;A;   WITH;BREVE;   AND;   DOT;BELOW
+abrevebelowdot             0x1001eb7  ặ   LATIN;SMALL;LETTER;A;   WITH;BREVE;   AND;   DOT;BELOW
+Ebelowdot                  0x1001eb8  Ẹ   LATIN;CAPITAL;LETTER;E;   WITH;DOT;BELOW
+ebelowdot                  0x1001eb9  ẹ   LATIN;SMALL;LETTER;E;   WITH;DOT;BELOW
+Ehook                      0x1001eba  Ẻ   LATIN;CAPITAL;LETTER;E;   WITH;HOOK;ABOVE
+ehook                      0x1001ebb  ẻ   LATIN;SMALL;LETTER;E;   WITH;HOOK;ABOVE
+Etilde                     0x1001ebc  Ẽ   LATIN;CAPITAL;LETTER;E;   WITH;TILDE
+etilde                     0x1001ebd  ẽ   LATIN;SMALL;LETTER;E;   WITH;TILDE
+Ecircumflexacute           0x1001ebe  Ế   LATIN;CAPITAL;LETTER;E;   WITH;CIRCUMFLEX;AND;   ACUTE
+ecircumflexacute           0x1001ebf  ế   LATIN;SMALL;LETTER;E;   WITH;CIRCUMFLEX;AND;   ACUTE
+Ecircumflexgrave           0x1001ec0  Ề   LATIN;CAPITAL;LETTER;E;   WITH;CIRCUMFLEX;AND;   GRAVE
+ecircumflexgrave           0x1001ec1  ề   LATIN;SMALL;LETTER;E;   WITH;CIRCUMFLEX;AND;   GRAVE
+Ecircumflexhook            0x1001ec2  Ể   LATIN;CAPITAL;LETTER;E;   WITH;CIRCUMFLEX;AND;   HOOK;ABOVE
+ecircumflexhook            0x1001ec3  ể   LATIN;SMALL;LETTER;E;   WITH;CIRCUMFLEX;AND;   HOOK;ABOVE
+Ecircumflextilde           0x1001ec4  Ễ   LATIN;CAPITAL;LETTER;E;   WITH;CIRCUMFLEX;AND;   TILDE
+ecircumflextilde           0x1001ec5  ễ   LATIN;SMALL;LETTER;E;   WITH;CIRCUMFLEX;AND;   TILDE
+Ecircumflexbelowdot        0x1001ec6  Ệ   LATIN;CAPITAL;LETTER;E;   WITH;CIRCUMFLEX;AND;   DOT;BELOW
+ecircumflexbelowdot        0x1001ec7  ệ   LATIN;SMALL;LETTER;E;   WITH;CIRCUMFLEX;AND;   DOT;BELOW
+Ihook                      0x1001ec8  Ỉ   LATIN;CAPITAL;LETTER;I;WITH;HOOK;ABOVE
+ihook                      0x1001ec9  ỉ   LATIN;SMALL;LETTER;I;WITH;HOOK;ABOVE
+Ibelowdot                  0x1001eca  Ị   LATIN;CAPITAL;LETTER;I;WITH;DOT;BELOW
+ibelowdot                  0x1001ecb  ị   LATIN;SMALL;LETTER;I;WITH;DOT;BELOW
+Obelowdot                  0x1001ecc  Ọ   LATIN;CAPITAL;LETTER;O;WITH;DOT;BELOW
+obelowdot                  0x1001ecd  ọ   LATIN;SMALL;LETTER;O;WITH;DOT;BELOW
+Ohook                      0x1001ece  Ỏ   LATIN;CAPITAL;LETTER;O;WITH;HOOK;ABOVE
+ohook                      0x1001ecf  ỏ   LATIN;SMALL;LETTER;O;WITH;HOOK;ABOVE
+Ocircumflexacute           0x1001ed0  Ố   LATIN;CAPITAL;LETTER;O;WITH;CIRCUMFLEX;AND;   ACUTE
+ocircumflexacute           0x1001ed1  ố   LATIN;SMALL;LETTER;O;WITH;CIRCUMFLEX;AND;   ACUTE
+Ocircumflexgrave           0x1001ed2  Ồ   LATIN;CAPITAL;LETTER;O;WITH;CIRCUMFLEX;AND;   GRAVE
+ocircumflexgrave           0x1001ed3  ồ   LATIN;SMALL;LETTER;O;WITH;CIRCUMFLEX;AND;   GRAVE
+Ocircumflexhook            0x1001ed4  Ổ   LATIN;CAPITAL;LETTER;O;WITH;CIRCUMFLEX;AND;   HOOK;ABOVE
+ocircumflexhook            0x1001ed5  ổ   LATIN;SMALL;LETTER;O;WITH;CIRCUMFLEX;AND;   HOOK;ABOVE
+Ocircumflextilde           0x1001ed6  Ỗ   LATIN;CAPITAL;LETTER;O;WITH;CIRCUMFLEX;AND;   TILDE
+ocircumflextilde           0x1001ed7  ỗ   LATIN;SMALL;LETTER;O;WITH;CIRCUMFLEX;AND;   TILDE
+Ocircumflexbelowdot        0x1001ed8  Ộ   LATIN;CAPITAL;LETTER;O;WITH;CIRCUMFLEX;AND;   DOT;BELOW
+ocircumflexbelowdot        0x1001ed9  ộ   LATIN;SMALL;LETTER;O;WITH;CIRCUMFLEX;AND;   DOT;BELOW
+Ohornacute                 0x1001eda  Ớ   LATIN;CAPITAL;LETTER;O;WITH;HORN;AND;   ACUTE
+ohornacute                 0x1001edb  ớ   LATIN;SMALL;LETTER;O;WITH;HORN;AND;   ACUTE
+Ohorngrave                 0x1001edc  Ờ   LATIN;CAPITAL;LETTER;O;WITH;HORN;AND;   GRAVE
+ohorngrave                 0x1001edd  ờ   LATIN;SMALL;LETTER;O;WITH;HORN;AND;   GRAVE
+Ohornhook                  0x1001ede  Ở   LATIN;CAPITAL;LETTER;O;WITH;HORN;AND;   HOOK;ABOVE
+ohornhook                  0x1001edf  ở   LATIN;SMALL;LETTER;O;WITH;HORN;AND;   HOOK;ABOVE
+Ohorntilde                 0x1001ee0  Ỡ   LATIN;CAPITAL;LETTER;O;WITH;HORN;AND;   TILDE
+ohorntilde                 0x1001ee1  ỡ   LATIN;SMALL;LETTER;O;WITH;HORN;AND;   TILDE
+Ohornbelowdot              0x1001ee2  Ợ   LATIN;CAPITAL;LETTER;O;WITH;HORN;AND;   DOT;BELOW
+ohornbelowdot              0x1001ee3  ợ   LATIN;SMALL;LETTER;O;WITH;HORN;AND;   DOT;BELOW
+Ubelowdot                  0x1001ee4  Ụ   LATIN;CAPITAL;LETTER;U;WITH;DOT;BELOW
+ubelowdot                  0x1001ee5  ụ   LATIN;SMALL;LETTER;U;WITH;DOT;BELOW
+Uhook                      0x1001ee6  Ủ   LATIN;CAPITAL;LETTER;U;WITH;HOOK;ABOVE
+uhook                      0x1001ee7  ủ   LATIN;SMALL;LETTER;U;WITH;HOOK;ABOVE
+Uhornacute                 0x1001ee8  Ứ   LATIN;CAPITAL;LETTER;U;WITH;HORN;AND;   ACUTE
+uhornacute                 0x1001ee9  ứ   LATIN;SMALL;LETTER;U;WITH;HORN;AND;   ACUTE
+Uhorngrave                 0x1001eea  Ừ   LATIN;CAPITAL;LETTER;U;WITH;HORN;AND;   GRAVE
+uhorngrave                 0x1001eeb  ừ   LATIN;SMALL;LETTER;U;WITH;HORN;AND;   GRAVE
+Uhornhook                  0x1001eec  Ử   LATIN;CAPITAL;LETTER;U;WITH;HORN;AND;   HOOK;ABOVE
+uhornhook                  0x1001eed  ử   LATIN;SMALL;LETTER;U;WITH;HORN;AND;   HOOK;ABOVE
+Uhorntilde                 0x1001eee  Ữ   LATIN;CAPITAL;LETTER;U;WITH;HORN;AND;   TILDE
+uhorntilde                 0x1001eef  ữ   LATIN;SMALL;LETTER;U;WITH;HORN;AND;   TILDE
+Uhornbelowdot              0x1001ef0  Ự   LATIN;CAPITAL;LETTER;U;WITH;HORN;AND;   DOT;BELOW
+uhornbelowdot              0x1001ef1  ự   LATIN;SMALL;LETTER;U;WITH;HORN;AND;   DOT;BELOW
+Ybelowdot                  0x1001ef4  Ỵ   LATIN;CAPITAL;LETTER;Y;WITH;DOT;BELOW
+ybelowdot                  0x1001ef5  ỵ   LATIN;SMALL;LETTER;Y;WITH;DOT;BELOW
+Yhook                      0x1001ef6  Ỷ   LATIN;CAPITAL;LETTER;Y;WITH;HOOK;ABOVE
+yhook                      0x1001ef7  ỷ   LATIN;SMALL;LETTER;Y;WITH;HOOK;ABOVE
+Ytilde                     0x1001ef8  Ỹ   LATIN;CAPITAL;LETTER;Y;WITH;TILDE
+ytilde                     0x1001ef9  ỹ   LATIN;SMALL;LETTER;Y;WITH;TILDE
+Ohorn                      0x10001a0  Ơ   LATIN;CAPITAL;LETTER;O;WITH;HORN
+ohorn                      0x10001a1  ơ   LATIN;SMALL;LETTER;O;WITH;HORN
+Uhorn                      0x10001af  Ư   LATIN;CAPITAL;LETTER;U;WITH;HORN
+uhorn                      0x10001b0  ư   LATIN;SMALL;LETTER;U;WITH;HORN
+EcuSign                    0x10020a0  ₠   EURO-CURRENCY;SIGN
+ColonSign                  0x10020a1  ₡   COLON;SIGN
+CruzeiroSign               0x10020a2  ₢   CRUZEIRO;SIGN
+FFrancSign                 0x10020a3  ₣   FRENCH;FRANC;   SIGN
+LiraSign                   0x10020a4  ₤   LIRA;   SIGN
+MillSign                   0x10020a5  ₥   MILL;SIGN
+NairaSign                  0x10020a6  ₦   NAIRA;   SIGN
+PesetaSign                 0x10020a7  ₧   PESETA;   SIGN
+RupeeSign                  0x10020a8  ₨   RUPEE;   SIGN
+WonSign                    0x10020a9  ₩   WON;SIGN
+NewSheqelSign              0x10020aa  ₪   NEW;SHEQEL;SIGN
+DongSign                   0x10020ab  ₫   DONG;SIGN
+EuroSign                      0x20ac  €   EURO;SIGN
+zerosuperior               0x1002070  ⁰   SUPERSCRIPT;ZERO
+foursuperior               0x1002074  ⁴   SUPERSCRIPT;FOUR
+fivesuperior               0x1002075  ⁵   SUPERSCRIPT;FIVE
+sixsuperior                0x1002076  ⁶   SUPERSCRIPT;SIX
+sevensuperior              0x1002077  ⁷   SUPERSCRIPT;SEVEN
+eightsuperior              0x1002078  ⁸   SUPERSCRIPT;EIGHT
+ninesuperior               0x1002079  ⁹   SUPERSCRIPT;NINE
+zerosubscript              0x1002080  ₀   SUBSCRIPT;ZERO
+onesubscript               0x1002081  ₁   SUBSCRIPT;ONE
+twosubscript               0x1002082  ₂   SUBSCRIPT;TWO
+threesubscript             0x1002083  ₃   SUBSCRIPT;THREE
+foursubscript              0x1002084  ₄   SUBSCRIPT;FOUR
+fivesubscript              0x1002085  ₅   SUBSCRIPT;FIVE
+sixsubscript               0x1002086  ₆   SUBSCRIPT;SIX
+sevensubscript             0x1002087  ₇   SUBSCRIPT;SEVEN
+eightsubscript             0x1002088  ₈   SUBSCRIPT;EIGHT
+ninesubscript              0x1002089  ₉   SUBSCRIPT;NINE
+partdifferential           0x1002202  ∂   PARTIAL;DIFFERENTIAL
+emptyset                   0x1002205  ∅   NULL;SET
+elementof                  0x1002208  ∈   ELEMENT;OF
+notelementof               0x1002209  ∉   NOT;AN;ELEMENT;OF
+containsas                 0x100220B  ∋   CONTAINS;AS;MEMBER
+squareroot                 0x100221A  √   SQUARE;   ROOT
+cuberoot                   0x100221B  ∛   CUBE;   ROOT
+fourthroot                 0x100221C  ∜   FOURTH;ROOT
+dintegral                  0x100222C  ∬   DOUBLE;   INTEGRAL
+tintegral                  0x100222D  ∭   TRIPLE;   INTEGRAL
+because                    0x1002235  ∵   BECAUSE
+approxeq                   0x1002248  ≅   ALMOST;EQUAL;TO
+notapproxeq                0x1002247  ≇   NOT;ALMOST;EQUAL;TO
+notidentical               0x1002262  ≢   NOT;IDENTICAL;TO
+stricteq                   0x1002263  ≣   STRICTLY;EQUIVALENT;TO          
+braille_blank              0x1002800  ⠀   BRAILLE;   PATTERN;BLANK
+braille_dots_1             0x1002801  ⠁   BRAILLE;   PATTERN;DOTS-1
+braille_dots_2             0x1002802  ⠂   BRAILLE;   PATTERN;DOTS-2
+braille_dots_12            0x1002803  ⠃   BRAILLE;   PATTERN;DOTS-12
+braille_dots_3             0x1002804  ⠄   BRAILLE;   PATTERN;DOTS-3
+braille_dots_13            0x1002805  ⠅   BRAILLE;   PATTERN;DOTS-13
+braille_dots_23            0x1002806  ⠆   BRAILLE;   PATTERN;DOTS-23
+braille_dots_123           0x1002807  ⠇   BRAILLE;   PATTERN;DOTS-123
+braille_dots_4             0x1002808  ⠈   BRAILLE;   PATTERN;DOTS-4
+braille_dots_14            0x1002809  ⠉   BRAILLE;   PATTERN;DOTS-14
+braille_dots_24            0x100280a  ⠊   BRAILLE;   PATTERN;DOTS-24
+braille_dots_124           0x100280b  ⠋   BRAILLE;   PATTERN;DOTS-124
+braille_dots_34            0x100280c  ⠌   BRAILLE;   PATTERN;DOTS-34
+braille_dots_134           0x100280d  ⠍   BRAILLE;   PATTERN;DOTS-134
+braille_dots_234           0x100280e  ⠎   BRAILLE;   PATTERN;DOTS-234
+braille_dots_1234          0x100280f  ⠏   BRAILLE;   PATTERN;DOTS-1234
+braille_dots_5             0x1002810  ⠐   BRAILLE;   PATTERN;DOTS-5
+braille_dots_15            0x1002811  ⠑   BRAILLE;   PATTERN;DOTS-15
+braille_dots_25            0x1002812  ⠒   BRAILLE;   PATTERN;DOTS-25
+braille_dots_125           0x1002813  ⠓   BRAILLE;   PATTERN;DOTS-125
+braille_dots_35            0x1002814  ⠔   BRAILLE;   PATTERN;DOTS-35
+braille_dots_135           0x1002815  ⠕   BRAILLE;   PATTERN;DOTS-135
+braille_dots_235           0x1002816  ⠖   BRAILLE;   PATTERN;DOTS-235
+braille_dots_1235          0x1002817  ⠗   BRAILLE;   PATTERN;DOTS-1235
+braille_dots_45            0x1002818  ⠘   BRAILLE;   PATTERN;DOTS-45
+braille_dots_145           0x1002819  ⠙   BRAILLE;   PATTERN;DOTS-145
+braille_dots_245           0x100281a  ⠚   BRAILLE;   PATTERN;DOTS-245
+braille_dots_1245          0x100281b  ⠛   BRAILLE;   PATTERN;DOTS-1245
+braille_dots_345           0x100281c  ⠜   BRAILLE;   PATTERN;DOTS-345
+braille_dots_1345          0x100281d  ⠝   BRAILLE;   PATTERN;DOTS-1345
+braille_dots_2345          0x100281e  ⠞   BRAILLE;   PATTERN;DOTS-2345
+braille_dots_12345         0x100281f  ⠟   BRAILLE;   PATTERN;DOTS-12345
+braille_dots_6             0x1002820  ⠠   BRAILLE;   PATTERN;DOTS-6
+braille_dots_16            0x1002821  ⠡   BRAILLE;   PATTERN;DOTS-16
+braille_dots_26            0x1002822  ⠢   BRAILLE;   PATTERN;DOTS-26
+braille_dots_126           0x1002823  ⠣   BRAILLE;   PATTERN;DOTS-126
+braille_dots_36            0x1002824  ⠤   BRAILLE;   PATTERN;DOTS-36
+braille_dots_136           0x1002825  ⠥   BRAILLE;   PATTERN;DOTS-136
+braille_dots_236           0x1002826  ⠦   BRAILLE;   PATTERN;DOTS-236
+braille_dots_1236          0x1002827  ⠧   BRAILLE;   PATTERN;DOTS-1236
+braille_dots_46            0x1002828  ⠨   BRAILLE;   PATTERN;DOTS-46
+braille_dots_146           0x1002829  ⠩   BRAILLE;   PATTERN;DOTS-146
+braille_dots_246           0x100282a  ⠪   BRAILLE;   PATTERN;DOTS-246
+braille_dots_1246          0x100282b  ⠫   BRAILLE;   PATTERN;DOTS-1246
+braille_dots_346           0x100282c  ⠬   BRAILLE;   PATTERN;DOTS-346
+braille_dots_1346          0x100282d  ⠭   BRAILLE;   PATTERN;DOTS-1346
+braille_dots_2346          0x100282e  ⠮   BRAILLE;   PATTERN;DOTS-2346
+braille_dots_12346         0x100282f  ⠯   BRAILLE;   PATTERN;DOTS-12346
+braille_dots_56            0x1002830  ⠰   BRAILLE;   PATTERN;DOTS-56
+braille_dots_156           0x1002831  ⠱   BRAILLE;   PATTERN;DOTS-156
+braille_dots_256           0x1002832  ⠲   BRAILLE;   PATTERN;DOTS-256
+braille_dots_1256          0x1002833  ⠳   BRAILLE;   PATTERN;DOTS-1256
+braille_dots_356           0x1002834  ⠴   BRAILLE;   PATTERN;DOTS-356
+braille_dots_1356          0x1002835  ⠵   BRAILLE;   PATTERN;DOTS-1356
+braille_dots_2356          0x1002836  ⠶   BRAILLE;   PATTERN;DOTS-2356
+braille_dots_12356         0x1002837  ⠷   BRAILLE;   PATTERN;DOTS-12356
+braille_dots_456           0x1002838  ⠸   BRAILLE;   PATTERN;DOTS-456
+braille_dots_1456          0x1002839  ⠹   BRAILLE;   PATTERN;DOTS-1456
+braille_dots_2456          0x100283a  ⠺   BRAILLE;   PATTERN;DOTS-2456
+braille_dots_12456         0x100283b  ⠻   BRAILLE;   PATTERN;DOTS-12456
+braille_dots_3456          0x100283c  ⠼   BRAILLE;   PATTERN;DOTS-3456
+braille_dots_13456         0x100283d  ⠽   BRAILLE;   PATTERN;DOTS-13456
+braille_dots_23456         0x100283e  ⠾   BRAILLE;   PATTERN;DOTS-23456
+braille_dots_123456        0x100283f  ⠿   BRAILLE;   PATTERN;DOTS-123456
+braille_dots_7             0x1002840  ⡀   BRAILLE;   PATTERN;DOTS-7
+braille_dots_17            0x1002841  ⡁   BRAILLE;   PATTERN;DOTS-17
+braille_dots_27            0x1002842  ⡂   BRAILLE;   PATTERN;DOTS-27
+braille_dots_127           0x1002843  ⡃   BRAILLE;   PATTERN;DOTS-127
+braille_dots_37            0x1002844  ⡄   BRAILLE;   PATTERN;DOTS-37
+braille_dots_137           0x1002845  ⡅   BRAILLE;   PATTERN;DOTS-137
+braille_dots_237           0x1002846  ⡆   BRAILLE;   PATTERN;DOTS-237
+braille_dots_1237          0x1002847  ⡇   BRAILLE;   PATTERN;DOTS-1237
+braille_dots_47            0x1002848  ⡈   BRAILLE;   PATTERN;DOTS-47
+braille_dots_147           0x1002849  ⡉   BRAILLE;   PATTERN;DOTS-147
+braille_dots_247           0x100284a  ⡊   BRAILLE;   PATTERN;DOTS-247
+braille_dots_1247          0x100284b  ⡋   BRAILLE;   PATTERN;DOTS-1247
+braille_dots_347           0x100284c  ⡌   BRAILLE;   PATTERN;DOTS-347
+braille_dots_1347          0x100284d  ⡍   BRAILLE;   PATTERN;DOTS-1347
+braille_dots_2347          0x100284e  ⡎   BRAILLE;   PATTERN;DOTS-2347
+braille_dots_12347         0x100284f  ⡏   BRAILLE;   PATTERN;DOTS-12347
+braille_dots_57            0x1002850  ⡐   BRAILLE;   PATTERN;DOTS-57
+braille_dots_157           0x1002851  ⡑   BRAILLE;   PATTERN;DOTS-157
+braille_dots_257           0x1002852  ⡒   BRAILLE;   PATTERN;DOTS-257
+braille_dots_1257          0x1002853  ⡓   BRAILLE;   PATTERN;DOTS-1257
+braille_dots_357           0x1002854  ⡔   BRAILLE;   PATTERN;DOTS-357
+braille_dots_1357          0x1002855  ⡕   BRAILLE;   PATTERN;DOTS-1357
+braille_dots_2357          0x1002856  ⡖   BRAILLE;   PATTERN;DOTS-2357
+braille_dots_12357         0x1002857  ⡗   BRAILLE;   PATTERN;DOTS-12357
+braille_dots_457           0x1002858  ⡘   BRAILLE;   PATTERN;DOTS-457
+braille_dots_1457          0x1002859  ⡙   BRAILLE;   PATTERN;DOTS-1457
+braille_dots_2457          0x100285a  ⡚   BRAILLE;   PATTERN;DOTS-2457
+braille_dots_12457         0x100285b  ⡛   BRAILLE;   PATTERN;DOTS-12457
+braille_dots_3457          0x100285c  ⡜   BRAILLE;   PATTERN;DOTS-3457
+braille_dots_13457         0x100285d  ⡝   BRAILLE;   PATTERN;DOTS-13457
+braille_dots_23457         0x100285e  ⡞   BRAILLE;   PATTERN;DOTS-23457
+braille_dots_123457        0x100285f  ⡟   BRAILLE;   PATTERN;DOTS-123457
+braille_dots_67            0x1002860  ⡠   BRAILLE;   PATTERN;DOTS-67
+braille_dots_167           0x1002861  ⡡   BRAILLE;   PATTERN;DOTS-167
+braille_dots_267           0x1002862  ⡢   BRAILLE;   PATTERN;DOTS-267
+braille_dots_1267          0x1002863  ⡣   BRAILLE;   PATTERN;DOTS-1267
+braille_dots_367           0x1002864  ⡤   BRAILLE;   PATTERN;DOTS-367
+braille_dots_1367          0x1002865  ⡥   BRAILLE;   PATTERN;DOTS-1367
+braille_dots_2367          0x1002866  ⡦   BRAILLE;   PATTERN;DOTS-2367
+braille_dots_12367         0x1002867  ⡧   BRAILLE;   PATTERN;DOTS-12367
+braille_dots_467           0x1002868  ⡨   BRAILLE;   PATTERN;DOTS-467
+braille_dots_1467          0x1002869  ⡩   BRAILLE;   PATTERN;DOTS-1467
+braille_dots_2467          0x100286a  ⡪   BRAILLE;   PATTERN;DOTS-2467
+braille_dots_12467         0x100286b  ⡫   BRAILLE;   PATTERN;DOTS-12467
+braille_dots_3467          0x100286c  ⡬   BRAILLE;   PATTERN;DOTS-3467
+braille_dots_13467         0x100286d  ⡭   BRAILLE;   PATTERN;DOTS-13467
+braille_dots_23467         0x100286e  ⡮   BRAILLE;   PATTERN;DOTS-23467
+braille_dots_123467        0x100286f  ⡯   BRAILLE;   PATTERN;DOTS-123467
+braille_dots_567           0x1002870  ⡰   BRAILLE;   PATTERN;DOTS-567
+braille_dots_1567          0x1002871  ⡱   BRAILLE;   PATTERN;DOTS-1567
+braille_dots_2567          0x1002872  ⡲   BRAILLE;   PATTERN;DOTS-2567
+braille_dots_12567         0x1002873  ⡳   BRAILLE;   PATTERN;DOTS-12567
+braille_dots_3567          0x1002874  ⡴   BRAILLE;   PATTERN;DOTS-3567
+braille_dots_13567         0x1002875  ⡵   BRAILLE;   PATTERN;DOTS-13567
+braille_dots_23567         0x1002876  ⡶   BRAILLE;   PATTERN;DOTS-23567
+braille_dots_123567        0x1002877  ⡷   BRAILLE;   PATTERN;DOTS-123567
+braille_dots_4567          0x1002878  ⡸   BRAILLE;   PATTERN;DOTS-4567
+braille_dots_14567         0x1002879  ⡹   BRAILLE;   PATTERN;DOTS-14567
+braille_dots_24567         0x100287a  ⡺   BRAILLE;   PATTERN;DOTS-24567
+braille_dots_124567        0x100287b  ⡻   BRAILLE;   PATTERN;DOTS-124567
+braille_dots_34567         0x100287c  ⡼   BRAILLE;   PATTERN;DOTS-34567
+braille_dots_134567        0x100287d  ⡽   BRAILLE;   PATTERN;DOTS-134567
+braille_dots_234567        0x100287e  ⡾   BRAILLE;   PATTERN;DOTS-234567
+braille_dots_1234567       0x100287f  ⡿   BRAILLE;   PATTERN;DOTS-1234567
+braille_dots_8             0x1002880  ⢀   BRAILLE;   PATTERN;DOTS-8
+braille_dots_18            0x1002881  ⢁   BRAILLE;   PATTERN;DOTS-18
+braille_dots_28            0x1002882  ⢂   BRAILLE;   PATTERN;DOTS-28
+braille_dots_128           0x1002883  ⢃   BRAILLE;   PATTERN;DOTS-128
+braille_dots_38            0x1002884  ⢄   BRAILLE;   PATTERN;DOTS-38
+braille_dots_138           0x1002885  ⢅   BRAILLE;   PATTERN;DOTS-138
+braille_dots_238           0x1002886  ⢆   BRAILLE;   PATTERN;DOTS-238
+braille_dots_1238          0x1002887  ⢇   BRAILLE;   PATTERN;DOTS-1238
+braille_dots_48            0x1002888  ⢈   BRAILLE;   PATTERN;DOTS-48
+braille_dots_148           0x1002889  ⢉   BRAILLE;   PATTERN;DOTS-148
+braille_dots_248           0x100288a  ⢊   BRAILLE;   PATTERN;DOTS-248
+braille_dots_1248          0x100288b  ⢋   BRAILLE;   PATTERN;DOTS-1248
+braille_dots_348           0x100288c  ⢌   BRAILLE;   PATTERN;DOTS-348
+braille_dots_1348          0x100288d  ⢍   BRAILLE;   PATTERN;DOTS-1348
+braille_dots_2348          0x100288e  ⢎   BRAILLE;   PATTERN;DOTS-2348
+braille_dots_12348         0x100288f  ⢏   BRAILLE;   PATTERN;DOTS-12348
+braille_dots_58            0x1002890  ⢐   BRAILLE;   PATTERN;DOTS-58
+braille_dots_158           0x1002891  ⢑   BRAILLE;   PATTERN;DOTS-158
+braille_dots_258           0x1002892  ⢒   BRAILLE;   PATTERN;DOTS-258
+braille_dots_1258          0x1002893  ⢓   BRAILLE;   PATTERN;DOTS-1258
+braille_dots_358           0x1002894  ⢔   BRAILLE;   PATTERN;DOTS-358
+braille_dots_1358          0x1002895  ⢕   BRAILLE;   PATTERN;DOTS-1358
+braille_dots_2358          0x1002896  ⢖   BRAILLE;   PATTERN;DOTS-2358
+braille_dots_12358         0x1002897  ⢗   BRAILLE;   PATTERN;DOTS-12358
+braille_dots_458           0x1002898  ⢘   BRAILLE;   PATTERN;DOTS-458
+braille_dots_1458          0x1002899  ⢙   BRAILLE;   PATTERN;DOTS-1458
+braille_dots_2458          0x100289a  ⢚   BRAILLE;   PATTERN;DOTS-2458
+braille_dots_12458         0x100289b  ⢛   BRAILLE;   PATTERN;DOTS-12458
+braille_dots_3458          0x100289c  ⢜   BRAILLE;   PATTERN;DOTS-3458
+braille_dots_13458         0x100289d  ⢝   BRAILLE;   PATTERN;DOTS-13458
+braille_dots_23458         0x100289e  ⢞   BRAILLE;   PATTERN;DOTS-23458
+braille_dots_123458        0x100289f  ⢟   BRAILLE;   PATTERN;DOTS-123458
+braille_dots_68            0x10028a0  ⢠   BRAILLE;   PATTERN;DOTS-68
+braille_dots_168           0x10028a1  ⢡   BRAILLE;   PATTERN;DOTS-168
+braille_dots_268           0x10028a2  ⢢   BRAILLE;   PATTERN;DOTS-268
+braille_dots_1268          0x10028a3  ⢣   BRAILLE;   PATTERN;DOTS-1268
+braille_dots_368           0x10028a4  ⢤   BRAILLE;   PATTERN;DOTS-368
+braille_dots_1368          0x10028a5  ⢥   BRAILLE;   PATTERN;DOTS-1368
+braille_dots_2368          0x10028a6  ⢦   BRAILLE;   PATTERN;DOTS-2368
+braille_dots_12368         0x10028a7  ⢧   BRAILLE;   PATTERN;DOTS-12368
+braille_dots_468           0x10028a8  ⢨   BRAILLE;   PATTERN;DOTS-468
+braille_dots_1468          0x10028a9  ⢩   BRAILLE;   PATTERN;DOTS-1468
+braille_dots_2468          0x10028aa  ⢪   BRAILLE;   PATTERN;DOTS-2468
+braille_dots_12468         0x10028ab  ⢫   BRAILLE;   PATTERN;DOTS-12468
+braille_dots_3468          0x10028ac  ⢬   BRAILLE;   PATTERN;DOTS-3468
+braille_dots_13468         0x10028ad  ⢭   BRAILLE;   PATTERN;DOTS-13468
+braille_dots_23468         0x10028ae  ⢮   BRAILLE;   PATTERN;DOTS-23468
+braille_dots_123468        0x10028af  ⢯   BRAILLE;   PATTERN;DOTS-123468
+braille_dots_568           0x10028b0  ⢰   BRAILLE;   PATTERN;DOTS-568
+braille_dots_1568          0x10028b1  ⢱   BRAILLE;   PATTERN;DOTS-1568
+braille_dots_2568          0x10028b2  ⢲   BRAILLE;   PATTERN;DOTS-2568
+braille_dots_12568         0x10028b3  ⢳   BRAILLE;   PATTERN;DOTS-12568
+braille_dots_3568          0x10028b4  ⢴   BRAILLE;   PATTERN;DOTS-3568
+braille_dots_13568         0x10028b5  ⢵   BRAILLE;   PATTERN;DOTS-13568
+braille_dots_23568         0x10028b6  ⢶   BRAILLE;   PATTERN;DOTS-23568
+braille_dots_123568        0x10028b7  ⢷   BRAILLE;   PATTERN;DOTS-123568
+braille_dots_4568          0x10028b8  ⢸   BRAILLE;   PATTERN;DOTS-4568
+braille_dots_14568         0x10028b9  ⢹   BRAILLE;   PATTERN;DOTS-14568
+braille_dots_24568         0x10028ba  ⢺   BRAILLE;   PATTERN;DOTS-24568
+braille_dots_124568        0x10028bb  ⢻   BRAILLE;   PATTERN;DOTS-124568
+braille_dots_34568         0x10028bc  ⢼   BRAILLE;   PATTERN;DOTS-34568
+braille_dots_134568        0x10028bd  ⢽   BRAILLE;   PATTERN;DOTS-134568
+braille_dots_234568        0x10028be  ⢾   BRAILLE;   PATTERN;DOTS-234568
+braille_dots_1234568       0x10028bf  ⢿   BRAILLE;   PATTERN;DOTS-1234568
+braille_dots_78            0x10028c0  ⣀   BRAILLE;   PATTERN;DOTS-78
+braille_dots_178           0x10028c1  ⣁   BRAILLE;   PATTERN;DOTS-178
+braille_dots_278           0x10028c2  ⣂   BRAILLE;   PATTERN;DOTS-278
+braille_dots_1278          0x10028c3  ⣃   BRAILLE;   PATTERN;DOTS-1278
+braille_dots_378           0x10028c4  ⣄   BRAILLE;   PATTERN;DOTS-378
+braille_dots_1378          0x10028c5  ⣅   BRAILLE;   PATTERN;DOTS-1378
+braille_dots_2378          0x10028c6  ⣆   BRAILLE;   PATTERN;DOTS-2378
+braille_dots_12378         0x10028c7  ⣇   BRAILLE;   PATTERN;DOTS-12378
+braille_dots_478           0x10028c8  ⣈   BRAILLE;   PATTERN;DOTS-478
+braille_dots_1478          0x10028c9  ⣉   BRAILLE;   PATTERN;DOTS-1478
+braille_dots_2478          0x10028ca  ⣊   BRAILLE;   PATTERN;DOTS-2478
+braille_dots_12478         0x10028cb  ⣋   BRAILLE;   PATTERN;DOTS-12478
+braille_dots_3478          0x10028cc  ⣌   BRAILLE;   PATTERN;DOTS-3478
+braille_dots_13478         0x10028cd  ⣍   BRAILLE;   PATTERN;DOTS-13478
+braille_dots_23478         0x10028ce  ⣎   BRAILLE;   PATTERN;DOTS-23478
+braille_dots_123478        0x10028cf  ⣏   BRAILLE;   PATTERN;DOTS-123478
+braille_dots_578           0x10028d0  ⣐   BRAILLE;   PATTERN;DOTS-578
+braille_dots_1578          0x10028d1  ⣑   BRAILLE;   PATTERN;DOTS-1578
+braille_dots_2578          0x10028d2  ⣒   BRAILLE;   PATTERN;DOTS-2578
+braille_dots_12578         0x10028d3  ⣓   BRAILLE;   PATTERN;DOTS-12578
+braille_dots_3578          0x10028d4  ⣔   BRAILLE;   PATTERN;DOTS-3578
+braille_dots_13578         0x10028d5  ⣕   BRAILLE;   PATTERN;DOTS-13578
+braille_dots_23578         0x10028d6  ⣖   BRAILLE;   PATTERN;DOTS-23578
+braille_dots_123578        0x10028d7  ⣗   BRAILLE;   PATTERN;DOTS-123578
+braille_dots_4578          0x10028d8  ⣘   BRAILLE;   PATTERN;DOTS-4578
+braille_dots_14578         0x10028d9  ⣙   BRAILLE;   PATTERN;DOTS-14578
+braille_dots_24578         0x10028da  ⣚   BRAILLE;   PATTERN;DOTS-24578
+braille_dots_124578        0x10028db  ⣛   BRAILLE;   PATTERN;DOTS-124578
+braille_dots_34578         0x10028dc  ⣜   BRAILLE;   PATTERN;DOTS-34578
+braille_dots_134578        0x10028dd  ⣝   BRAILLE;   PATTERN;DOTS-134578
+braille_dots_234578        0x10028de  ⣞   BRAILLE;   PATTERN;DOTS-234578
+braille_dots_1234578       0x10028df  ⣟   BRAILLE;   PATTERN;DOTS-1234578
+braille_dots_678           0x10028e0  ⣠   BRAILLE;   PATTERN;DOTS-678
+braille_dots_1678          0x10028e1  ⣡   BRAILLE;   PATTERN;DOTS-1678
+braille_dots_2678          0x10028e2  ⣢   BRAILLE;   PATTERN;DOTS-2678
+braille_dots_12678         0x10028e3  ⣣   BRAILLE;   PATTERN;DOTS-12678
+braille_dots_3678          0x10028e4  ⣤   BRAILLE;   PATTERN;DOTS-3678
+braille_dots_13678         0x10028e5  ⣥   BRAILLE;   PATTERN;DOTS-13678
+braille_dots_23678         0x10028e6  ⣦   BRAILLE;   PATTERN;DOTS-23678
+braille_dots_123678        0x10028e7  ⣧   BRAILLE;   PATTERN;DOTS-123678
+braille_dots_4678          0x10028e8  ⣨   BRAILLE;   PATTERN;DOTS-4678
+braille_dots_14678         0x10028e9  ⣩   BRAILLE;   PATTERN;DOTS-14678
+braille_dots_24678         0x10028ea  ⣪   BRAILLE;   PATTERN;DOTS-24678
+braille_dots_124678        0x10028eb  ⣫   BRAILLE;   PATTERN;DOTS-124678
+braille_dots_34678         0x10028ec  ⣬   BRAILLE;   PATTERN;DOTS-34678
+braille_dots_134678        0x10028ed  ⣭   BRAILLE;   PATTERN;DOTS-134678
+braille_dots_234678        0x10028ee  ⣮   BRAILLE;   PATTERN;DOTS-234678
+braille_dots_1234678       0x10028ef  ⣯   BRAILLE;   PATTERN;DOTS-1234678
+braille_dots_5678          0x10028f0  ⣰   BRAILLE;   PATTERN;DOTS-5678
+braille_dots_15678         0x10028f1  ⣱   BRAILLE;   PATTERN;DOTS-15678
+braille_dots_25678         0x10028f2  ⣲   BRAILLE;   PATTERN;DOTS-25678
+braille_dots_125678        0x10028f3  ⣳   BRAILLE;   PATTERN;DOTS-125678
+braille_dots_35678         0x10028f4  ⣴   BRAILLE;   PATTERN;DOTS-35678
+braille_dots_135678        0x10028f5  ⣵   BRAILLE;   PATTERN;DOTS-135678
+braille_dots_235678        0x10028f6  ⣶   BRAILLE;   PATTERN;DOTS-235678
+braille_dots_1235678       0x10028f7  ⣷   BRAILLE;   PATTERN;DOTS-1235678
+braille_dots_45678         0x10028f8  ⣸   BRAILLE;   PATTERN;DOTS-45678
+braille_dots_145678        0x10028f9  ⣹   BRAILLE;   PATTERN;DOTS-145678
+braille_dots_245678        0x10028fa  ⣺   BRAILLE;   PATTERN;DOTS-245678
+braille_dots_1245678       0x10028fb  ⣻   BRAILLE;   PATTERN;DOTS-1245678
+braille_dots_345678        0x10028fc  ⣼   BRAILLE;   PATTERN;DOTS-345678
+braille_dots_1345678       0x10028fd  ⣽   BRAILLE;   PATTERN;DOTS-1345678
+braille_dots_2345678       0x10028fe  ⣾   BRAILLE;   PATTERN;DOTS-2345678
+braille_dots_12345678      0x10028ff  ⣿   BRAILLE;   PATTERN;DOTS-12345678
+
